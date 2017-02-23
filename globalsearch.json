@@ -1,0 +1,206 @@
+[
+  {
+    "segments": [
+      {
+        "destination": {
+          "actualArrivedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "actualDepartedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "apptSubTypeId": null,
+          "apptTypeId": "N",
+          "contacts": [],
+          "id": 1465,
+          "location": {
+            "address": {
+              "address1": "4897 Lewis Rd. Unit C",
+              "city": "Atlanta",
+              "country": "USA",
+              "postalCode": "30040",
+              "state": "GA"
+            },
+            "id": 1541,
+            "name": "International Links Melreese Country Club"
+          },
+          "schEarliestDateTime": null,
+          "schLatestDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "schTargetDateTime": null,
+          "seqNumber": 2
+        },
+        "freightStatus": "PNDG",
+        "id": 746,
+        "identificationNumber": "303160000746",
+        "origin": {
+          "actualArrivedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "actualDepartedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "apptSubTypeId": null,
+          "apptTypeId": "N",
+          "contacts": [],
+          "id": 1464,
+          "location": {
+            "address": {
+              "address1": "13441 Erskine St",
+              "city": "Omaha",
+              "country": "USA",
+              "postalCode": "68164",
+              "state": "NE"
+            },
+            "id": -3,
+            "locationIdentifier": "PKWRYKGK",
+            "name": "GGGS LLC."
+          },
+          "schEarliestDateTime": null,
+          "schLatestDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "schTargetDateTime": null,
+          "seqNumber": 1
+        }
+      },
+      {
+        "destination": {
+          "actualArrivedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "actualDepartedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "apptSubTypeId": null,
+          "apptTypeId": "N",
+          "contacts": [],
+          "id": 1463,
+          "location": {
+            "address": {
+              "address1": "13441 Erskine St",
+              "city": "Omaha",
+              "country": "USA",
+              "postalCode": "68164",
+              "state": "NE"
+            },
+            "id": -3,
+            "locationIdentifier": "PKWRYKGK",
+            "name": "GGGS LLC."
+          },
+          "schEarliestDateTime": null,
+          "schLatestDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "schTargetDateTime": null,
+          "seqNumber": 2
+        },
+        "freightStatus": "PNDG",
+        "id": 745,
+        "identificationNumber": "303160000745",
+        "origin": {
+          "actualArrivedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "actualDepartedDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "apptSubTypeId": null,
+          "apptTypeId": "N",
+          "contacts": [],
+          "id": 1462,
+          "location": {
+            "address": {
+              "address1": "5168 Avanti Ct",
+              "city": "Stone Mountain",
+              "country": "USA",
+              "postalCode": "30088",
+              "state": "GA"
+            },
+            "id": 1540,
+            "locationIdentifier": "QVJKFLKL",
+            "name": "WAREHOUSE"
+          },
+          "schEarliestDateTime": null,
+          "schLatestDateTime": {
+            "date": "2017-02-01",
+            "time": null
+          },
+          "schTargetDateTime": null,
+          "seqNumber": 1
+        }
+      }
+    ],
+    "shipment": {
+      "destination": {
+        "actualArrivedDateTime": null,
+        "actualDepartedDateTime": null,
+        "apptSubTypeId": null,
+        "apptTypeId": "N",
+        "contacts": [],
+        "id": 1097,
+        "location": {
+          "address": {
+            "address1": "4897 Lewis Rd. Unit C",
+            "city": "Atlanta",
+            "country": "USA",
+            "postalCode": "30040",
+            "state": "GA"
+          },
+          "id": 1541,
+          "name": "International Links Melreese Country Club"
+        },
+        "schEarliestDateTime": null,
+        "schLatestDateTime": {
+          "date": "2016-04-15",
+          "time": null
+        },
+        "schTargetDateTime": null,
+        "seqNumber": 2
+      },
+      "freightStatus": "PNDG",
+      "id": 551,
+      "identificationNumber": "302160000551",
+      "origin": {
+        "actualArrivedDateTime": null,
+        "actualDepartedDateTime": null,
+        "apptSubTypeId": null,
+        "apptTypeId": "N",
+        "contacts": [],
+        "id": 1096,
+        "location": {
+          "address": {
+            "address1": "5168 Avanti Ct",
+            "city": "Stone Mountain",
+            "country": "USA",
+            "postalCode": "30088",
+            "state": "GA"
+          },
+          "id": 1540,
+          "locationIdentifier": "QVJKFLKL",
+          "name": "WAREHOUSE"
+        },
+        "schEarliestDateTime": null,
+        "schLatestDateTime": {
+          "date": "2016-04-11",
+          "time": null
+        },
+        "schTargetDateTime": null,
+        "seqNumber": 1
+      }
+    },
+    "sourceSystemId": "FNLML"
+  }
+]
