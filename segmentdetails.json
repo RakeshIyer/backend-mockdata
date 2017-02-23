@@ -1,0 +1,203 @@
+[
+  {
+    "carrier": {
+      "addressVo": {
+        "address1": "PO BOX 10048",
+        "address2": "",
+        "city": "FORT SMITH",
+        "country": "USA",
+        "postalCode": "72917",
+        "state": "AR"
+      },
+      "carrierIdent": "100010917",
+      "contactNumber": "4797858833",
+      "email": "DONNYDAVIS@FREIGHT.ABF.COM",
+      "name": "ABF FREIGHT SYSTEM INC",
+      "scac": ""
+    },
+    "comments": [],
+    "id": 1157,
+    "identificationNumber": "303170001157",
+    "orders": [
+      {
+        "freights": [
+          {
+            "description": "1 NIB office desk",
+            "dimensions": {
+              "dimHeight": 28,
+              "dimLength": 30,
+              "dimLwhMeasurementUnitTypeId": "N",
+              "dimWidth": 70
+            },
+            "freightClass": "125",
+            "id": 1171,
+            "nonUnitizedQuantity": {},
+            "unitizedQuantity": {
+              "quantity": 1,
+              "quantityUom": "PCS"
+            },
+            "weight": {
+              "type": "G",
+              "weight": 200,
+              "weightUOM": "L"
+            }
+          }
+        ],
+        "id": 1167,
+        "loadLevel": "SG",
+        "orderNumber": "23977239"
+      }
+    ],
+    "references": [
+      {
+        "code": "DO",
+        "desc": "Delivery Order Number",
+        "id": 1326,
+        "loadId": 1281,
+        "loadLevel": "SR",
+        "value": "23977239"
+      },
+      {
+        "code": "_0L",
+        "desc": "Referenced By",
+        "id": 552,
+        "loadId": 1157,
+        "loadLevel": "SG",
+        "value": "303170001158"
+      },
+      {
+        "code": "M6",
+        "desc": "Military Ordnance Security Risk Number",
+        "id": 1327,
+        "loadId": 1281,
+        "loadLevel": "SR",
+        "value": "SEE"
+      },
+      {
+        "code": "_0L",
+        "desc": "Referenced By",
+        "id": 553,
+        "loadId": 1157,
+        "loadLevel": "SG",
+        "value": "WernerFM"
+      },
+      {
+        "code": "WH",
+        "desc": "Master Reference (Link) Number",
+        "id": 1325,
+        "loadId": 1281,
+        "loadLevel": "SR",
+        "value": "AMEET1"
+      }
+    ],
+    "serviceStatuses": [
+      {
+        "identificationNumber": "303170001157",
+        "lastCalledDate": "2017-02-01T13:39:38.39",
+        "loadLevelType": "SG",
+        "status": "COMPLETED",
+        "type": "TransitTime"
+      },
+      {
+        "identificationNumber": "303170001157",
+        "lastCalledDate": "2017-02-01T13:39:41.4",
+        "loadLevelType": "SG",
+        "status": "COMPLETED",
+        "type": "AddCharges"
+      },
+      {
+        "description": "Non-published rates",
+        "identificationNumber": "303170001157",
+        "lastCalledDate": "2017-02-01T13:39:40.523",
+        "loadLevelType": "SG",
+        "status": "FAILED",
+        "type": "Rate"
+      },
+      {
+        "identificationNumber": "303170001157",
+        "lastCalledDate": "2017-02-01T13:39:39.496",
+        "loadLevelType": "SG",
+        "status": "COMPLETED",
+        "type": "Distance"
+      }
+    ],
+    "shipmentStatuses": [
+      {
+        "comments": "",
+        "id": 605,
+        "location": {
+          "address": {
+            "address1": "4897 Lewis Rd. Unit C",
+            "city": "Stone Mountain",
+            "country": "USA",
+            "postalCode": "30083",
+            "state": "GA"
+          },
+          "id": 1314,
+          "locationIdentifier": "DR4U77S5",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "receivedDateTime": "2017-02-01T13:39:41.462",
+        "segmentNumber": "303170001157",
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location"
+      }
+    ],
+    "stops": [
+      {
+        "actualArrivedDateTime": null,
+        "actualDepartedDateTime": null,
+        "apptSubTypeId": null,
+        "apptTypeId": "N",
+        "contacts": [],
+        "id": 2294,
+        "location": {
+          "address": {
+            "address1": "4897 Lewis Rd. Unit C",
+            "city": "Stone Mountain",
+            "country": "USA",
+            "postalCode": "30083",
+            "state": "GA"
+          },
+          "id": 1314,
+          "locationIdentifier": "DR4U77S5",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "schEarliestDateTime": null,
+        "schLatestDateTime": {
+          "date": "2016-04-11",
+          "time": null
+        },
+        "schTargetDateTime": null,
+        "seqNumber": 2
+      },
+      {
+        "actualArrivedDateTime": null,
+        "actualDepartedDateTime": null,
+        "apptSubTypeId": null,
+        "apptTypeId": "N",
+        "contacts": [],
+        "id": 2293,
+        "location": {
+          "address": {
+            "address1": "5168 Avanti Ct",
+            "city": "Stone Mountain",
+            "country": "USA",
+            "postalCode": "30088",
+            "state": "GA"
+          },
+          "id": 2581,
+          "locationIdentifier": "QVJKFLKL",
+          "name": "WAREHOUSE"
+        },
+        "schEarliestDateTime": null,
+        "schLatestDateTime": {
+          "date": "2016-04-11",
+          "time": null
+        },
+        "schTargetDateTime": null,
+        "seqNumber": 1
+      }
+    ]
+  }
+]
