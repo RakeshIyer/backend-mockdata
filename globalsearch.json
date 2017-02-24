@@ -1,7 +1,24 @@
 [
   {
     "sourceSystemId": "FNLML",
-    "customerName": "FACTORY DIRECT FURNITURE                          ",
+    "customer": {
+      "name": "FACTORY DIRECT FURNITURE                          ",
+      "address": {
+        "address1": "301 Broad St                                           ",
+        "address2": "                                                       ",
+        "address3": "                                                       ",
+        "address4": "                                                       ",
+        "city": "KINGSPORT                               ",
+        "state": "TN ",
+        "postalCode": "37660      ",
+        "country": "USA"
+      },
+      "customerContacts": [
+        {}
+      ],
+      "customerProfileIdent": "12011",
+      "as400_BillToCode": "FADIFU01"
+    },
     "shipment": {
       "id": 5,
       "identificationNumber": "302160000005",
@@ -59,16 +76,6 @@
         "contacts": [
           {
             "loadLevel": "SR",
-            "id": 1,
-            "name": "John Doe",
-            "contactFunctionCodeId": "AJ",
-            "contactNumber": {
-              "number": "4021234123",
-              "communicationNumberTypeId": "TE"
-            }
-          },
-          {
-            "loadLevel": "SR",
             "id": 2,
             "name": "John Doe",
             "contactFunctionCodeId": "AJ",
@@ -79,7 +86,7 @@
           },
           {
             "loadLevel": "SR",
-            "id": 19,
+            "id": 1,
             "name": "John Doe",
             "contactFunctionCodeId": "AJ",
             "contactNumber": {
@@ -96,10 +103,32 @@
               "number": "jdoe@gmail.com",
               "communicationNumberTypeId": "EA"
             }
+          },
+          {
+            "loadLevel": "SR",
+            "id": 19,
+            "name": "John Doe",
+            "contactFunctionCodeId": "AJ",
+            "contactNumber": {
+              "number": "4021234123",
+              "communicationNumberTypeId": "TE"
+            }
           }
         ]
       },
-      "freightStatus": "PNDG"
+      "carrier": null,
+      "freightStatus": "PNDG",
+      "lastShipmentStatus": null,
+      "references": [
+        {
+          "loadLevel": "SR",
+          "id": 7,
+          "loadId": 7,
+          "value": "23977239",
+          "code": "DO",
+          "desc": "Delivery Order Number"
+        }
+      ]
     },
     "segments": [
       {
@@ -129,12 +158,12 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:10:00"
           },
           "contacts": []
         },
@@ -161,17 +190,42 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:10:00"
           },
           "contacts": []
         },
-        "carrierName": "5AAB TRANSPORT LLC",
-        "freightStatus": "PNDG"
+        "carrier": {
+          "carrierIdent": "100006846",
+          "scac": "",
+          "name": "5AAB TRANSPORT LLC",
+          "email": "OSCAR@5AABTRANSPORT.COM",
+          "contactNumber": "6144236861",
+          "addressVo": {
+            "address1": "822 OAKLEY DR",
+            "address2": "",
+            "city": "DELAWARE",
+            "state": "OH",
+            "postalCode": "43015",
+            "country": "USA"
+          }
+        },
+        "freightStatus": "PNDG",
+        "lastShipmentStatus": null,
+        "references": [
+          {
+            "loadLevel": "SR",
+            "id": 7,
+            "loadId": 7,
+            "value": "23977239",
+            "code": "DO",
+            "desc": "Delivery Order Number"
+          }
+        ]
       },
       {
         "id": 13,
@@ -199,12 +253,12 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:10:00"
           },
           "contacts": []
         },
@@ -231,22 +285,22 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-02-01",
-            "time": null
+            "date": "2017-01-01",
+            "time": "10:10:00"
           },
           "contacts": [
             {
               "loadLevel": "SR",
-              "id": 19,
+              "id": 11,
               "name": "John Doe",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
-                "number": "4021234123",
-                "communicationNumberTypeId": "TE"
+                "number": "jdoe@gmail.com",
+                "communicationNumberTypeId": "EA"
               }
             },
             {
@@ -261,7 +315,7 @@
             },
             {
               "loadLevel": "SR",
-              "id": 11,
+              "id": 2,
               "name": "John Doe",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
@@ -271,18 +325,42 @@
             },
             {
               "loadLevel": "SR",
-              "id": 2,
+              "id": 19,
               "name": "John Doe",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
-                "number": "jdoe@gmail.com",
-                "communicationNumberTypeId": "EA"
+                "number": "4021234123",
+                "communicationNumberTypeId": "TE"
               }
             }
           ]
         },
-        "carrierName": "GILL 22 TRUCKING LLC",
-        "freightStatus": "PNDG"
+        "carrier": {
+          "carrierIdent": "100011816",
+          "name": "GILL 22 TRUCKING LLC",
+          "email": "GILL22LLC@GMAIL.COM",
+          "contactNumber": "4147552322",
+          "addressVo": {
+            "address1": "503 E CONNER CT",
+            "address2": "",
+            "city": "OAK CREEK",
+            "state": "WI",
+            "postalCode": "53154",
+            "country": "USA"
+          }
+        },
+        "freightStatus": "PNDG",
+        "lastShipmentStatus": null,
+        "references": [
+          {
+            "loadLevel": "SR",
+            "id": 7,
+            "loadId": 7,
+            "value": "23977239",
+            "code": "DO",
+            "desc": "Delivery Order Number"
+          }
+        ]
       }
     ]
   }
