@@ -56,8 +56,14 @@
           "date": "2016-04-11",
           "time": null
         },
-        "actualArrivedDateTime": null,
-        "actualDepartedDateTime": null,
+        "actualArrivedDateTime": {
+          "date": "2017-01-01",
+          "time": "10:00:00"
+        },
+        "actualDepartedDateTime": {
+          "date": "2017-01-01",
+          "time": "10:10:00"
+        },
         "contacts": []
       },
       {
@@ -83,26 +89,24 @@
           "date": "2016-04-11",
           "time": null
         },
-        "actualArrivedDateTime": null,
-        "actualDepartedDateTime": null,
+        "actualArrivedDateTime": {
+          "date": "2017-01-01",
+          "time": "10:00:00"
+        },
+        "actualDepartedDateTime": {
+          "date": "2017-01-01",
+          "time": "10:10:00"
+        },
         "contacts": []
       }
     ],
     "comments": [],
     "references": [
       {
-        "loadLevel": "SR",
-        "id": 1327,
-        "loadId": 1281,
-        "value": "SEE",
-        "code": "M6",
-        "desc": "Military Ordnance Security Risk Number"
-      },
-      {
         "loadLevel": "SG",
-        "id": 552,
+        "id": 553,
         "loadId": 1157,
-        "value": "303170001158",
+        "value": "WernerFM",
         "code": "_0L",
         "desc": "Referenced By"
       },
@@ -124,11 +128,19 @@
       },
       {
         "loadLevel": "SG",
-        "id": 553,
+        "id": 552,
         "loadId": 1157,
-        "value": "WernerFM",
+        "value": "303170001158",
         "code": "_0L",
         "desc": "Referenced By"
+      },
+      {
+        "loadLevel": "SR",
+        "id": 1327,
+        "loadId": 1281,
+        "value": "SEE",
+        "code": "M6",
+        "desc": "Military Ordnance Security Risk Number"
       }
     ],
     "shipmentStatuses": [
@@ -171,25 +183,24 @@
       {
         "identificationNumber": "303170001157",
         "loadLevelType": "SG",
-        "status": "COMPLETED",
-        "type": "Distance",
-        "lastCalledDate": "2017-02-01T13:39:39.496"
-      },
-      {
-        "identificationNumber": "303170001157",
-        "loadLevelType": "SG",
         "status": "FAILED",
         "description": "Non-published rates",
         "type": "Rate",
         "lastCalledDate": "2017-02-01T13:39:40.523"
+      },
+      {
+        "identificationNumber": "303170001157",
+        "loadLevelType": "SG",
+        "status": "COMPLETED",
+        "type": "Distance",
+        "lastCalledDate": "2017-02-01T13:39:39.496"
       }
     ],
     "carrier": {
       "carrierIdent": "100010917",
-      "scac": "",
+      "scac": "ABFS",
       "name": "ABF FREIGHT SYSTEM INC",
-      "email": "DONNYDAVIS@FREIGHT.ABF.COM",
-      "contactNumber": "4797858833",
+      "contactNumber": "479-785-6000",
       "addressVo": {
         "address1": "PO BOX 10048",
         "address2": "",
@@ -198,6 +209,7 @@
         "postalCode": "72917",
         "country": "USA"
       }
-    }
+    },
+    "freightStatus": "DELVRD"
   }
 ]
