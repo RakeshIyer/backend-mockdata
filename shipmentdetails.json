@@ -1,16 +1,16 @@
 [
   {
     "shipment": {
-      "id": 4,
-      "identificationNumber": "302160000004",
+      "id": 5,
+      "identificationNumber": "302160000005",
       "orders": [
         {
           "loadLevel": "SH",
-          "id": 4,
+          "id": 5,
           "orderNumber": "23977239",
           "freights": [
             {
-              "id": 4,
+              "id": 5,
               "description": "1 NIB office desk",
               "unitizedQuantity": {},
               "nonUnitizedQuantity": {},
@@ -28,37 +28,10 @@
       ],
       "stops": [
         {
-          "id": 7,
-          "seqNumber": 1,
-          "location": {
-            "id": 9,
-            "name": "DENVER WAREHOUSE",
-            "locationIdentifier": "FLHYS3DM",
-            "address": {
-              "address1": "4905 MOORES MILL ROAD",
-              "city": "Denver",
-              "state": "CO",
-              "postalCode": "80208",
-              "country": "USA"
-            }
-          },
-          "apptTypeId": "N",
-          "apptSubTypeId": null,
-          "schEarliestDateTime": null,
-          "schTargetDateTime": null,
-          "schLatestDateTime": {
-            "date": "2016-04-11",
-            "time": null
-          },
-          "actualArrivedDateTime": null,
-          "actualDepartedDateTime": null,
-          "contacts": []
-        },
-        {
-          "id": 8,
+          "id": 11,
           "seqNumber": 2,
           "location": {
-            "id": 10,
+            "id": 14,
             "name": "International Links Melreese Country Club",
             "address": {
               "address1": "1802 NW 37th Ave",
@@ -81,34 +54,51 @@
           "contacts": [
             {
               "loadLevel": "SR",
-              "id": 17,
+              "id": 2,
+              "name": "John Doe",
+              "contactFunctionCodeId": "AJ",
+              "contactNumber": {
+                "number": "jdoe@gmail.com",
+                "communicationNumberTypeId": "EA"
+              }
+            },
+            {
+              "loadLevel": "SR",
+              "id": 19,
               "name": "John Doe",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
                 "number": "4021234123",
                 "communicationNumberTypeId": "TE"
               }
+            },
+            {
+              "loadLevel": "SR",
+              "id": 1,
+              "name": "John Doe",
+              "contactFunctionCodeId": "AJ",
+              "contactNumber": {
+                "number": "4021234123",
+                "communicationNumberTypeId": "TE"
+              }
+            },
+            {
+              "loadLevel": "SR",
+              "id": 11,
+              "name": "John Doe",
+              "contactFunctionCodeId": "AJ",
+              "contactNumber": {
+                "number": "jdoe@gmail.com",
+                "communicationNumberTypeId": "EA"
+              }
             }
           ]
-        }
-      ],
-      "comments": [],
-      "references": [
+        },
         {
-          "loadLevel": "SR",
-          "id": 5,
-          "loadId": 5,
-          "value": "23977239",
-          "code": "DO",
-          "desc": "Delivery Order Number"
-        }
-      ],
-      "shipmentStatuses": [
-        {
-          "id": 65,
-          "segmentNumber": "303160000004",
+          "id": 9,
+          "seqNumber": 1,
           "location": {
-            "id": 9,
+            "id": 13,
             "name": "DENVER WAREHOUSE",
             "locationIdentifier": "FLHYS3DM",
             "address": {
@@ -119,54 +109,58 @@
               "country": "USA"
             }
           },
-          "positionCityState": "Omaha, NE",
-          "comments": "Omaha,NE"
-        },
-        {
-          "id": 66,
-          "segmentNumber": "303160000002",
-          "location": {
-            "id": -2,
-            "name": "Pack On The Go",
-            "address": {
-              "address1": "1520 S Powerline Rd",
-              "city": "Deerfield Beach",
-              "state": "FL",
-              "postalCode": "33442",
-              "country": "USA"
-            }
+          "apptTypeId": "N",
+          "apptSubTypeId": null,
+          "schEarliestDateTime": null,
+          "schTargetDateTime": null,
+          "schLatestDateTime": {
+            "date": "2016-04-11",
+            "time": null
           },
-          "positionCityState": "Omaha, NE",
-          "comments": "Omaha,NE"
+          "actualArrivedDateTime": null,
+          "actualDepartedDateTime": null,
+          "contacts": []
         }
       ],
+      "comments": [],
+      "references": [
+        {
+          "loadLevel": "SR",
+          "id": 7,
+          "loadId": 7,
+          "value": "23977239",
+          "code": "DO",
+          "desc": "Delivery Order Number"
+        }
+      ],
+      "shipmentStatuses": [],
       "serviceStatuses": [
         {
-          "identificationNumber": "302160000004",
-          "loadLevelType": "SG",
-          "status": "FAILED",
-          "type": "Rate",
-          "lastCalledDate": "2017-02-20T09:37:00.335"
-        },
-        {
-          "identificationNumber": "302160000004",
+          "identificationNumber": "302160000005",
           "loadLevelType": "SG",
           "status": "FAILED",
           "description": "Credit availability could not be verified",
           "type": "AddCharges",
-          "lastCalledDate": "2017-02-06T13:14:15.092"
+          "lastCalledDate": "2017-02-18T05:42:24.292"
         },
         {
-          "identificationNumber": "302160000004",
+          "identificationNumber": "302160000005",
           "loadLevelType": "SG",
           "status": "FAILED",
           "description": "Total Credit Needed required",
           "type": "Credit",
-          "lastCalledDate": "2017-02-21T08:37:33.681"
+          "lastCalledDate": "2017-02-18T05:42:24.102"
+        },
+        {
+          "identificationNumber": "302160000005",
+          "loadLevelType": "SG",
+          "status": "FAILED",
+          "type": "Rate",
+          "lastCalledDate": "2017-02-23T13:29:50.083"
         }
       ],
-      "deliveryOption": "CURB",
       "freightStatus": "PNDG",
+      "deliveryOption": "CURB",
       "customer": {
         "name": "FACTORY DIRECT FURNITURE                          ",
         "address": {
@@ -192,16 +186,16 @@
     },
     "segments": [
       {
-        "id": 2,
-        "identificationNumber": "303160000002",
+        "id": 13,
+        "identificationNumber": "303160000013",
         "orders": [
           {
             "loadLevel": "SG",
-            "id": 2,
+            "id": 14,
             "orderNumber": "23977239",
             "freights": [
               {
-                "id": 2,
+                "id": 14,
                 "description": "1 NIB office desk",
                 "unitizedQuantity": {},
                 "nonUnitizedQuantity": {},
@@ -219,7 +213,7 @@
         ],
         "stops": [
           {
-            "id": 3,
+            "id": 26,
             "seqNumber": 1,
             "location": {
               "id": -2,
@@ -241,20 +235,20 @@
               "time": null
             },
             "actualArrivedDateTime": {
-              "date": "2017-02-01",
-              "time": null
+              "date": "2017-01-01",
+              "time": "10:00:00"
             },
             "actualDepartedDateTime": {
-              "date": "2017-02-01",
-              "time": null
+              "date": "2017-01-01",
+              "time": "10:10:00"
             },
             "contacts": []
           },
           {
-            "id": 4,
+            "id": 28,
             "seqNumber": 2,
             "location": {
-              "id": 10,
+              "id": 14,
               "name": "International Links Melreese Country Club",
               "address": {
                 "address1": "1802 NW 37th Ave",
@@ -273,22 +267,52 @@
               "time": null
             },
             "actualArrivedDateTime": {
-              "date": "2017-02-01",
-              "time": null
+              "date": "2017-01-01",
+              "time": "10:00:00"
             },
             "actualDepartedDateTime": {
-              "date": "2017-02-01",
-              "time": null
+              "date": "2017-01-01",
+              "time": "10:10:00"
             },
             "contacts": [
               {
                 "loadLevel": "SR",
-                "id": 17,
+                "id": 19,
                 "name": "John Doe",
                 "contactFunctionCodeId": "AJ",
                 "contactNumber": {
                   "number": "4021234123",
                   "communicationNumberTypeId": "TE"
+                }
+              },
+              {
+                "loadLevel": "SR",
+                "id": 2,
+                "name": "John Doe",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "jdoe@gmail.com",
+                  "communicationNumberTypeId": "EA"
+                }
+              },
+              {
+                "loadLevel": "SR",
+                "id": 1,
+                "name": "John Doe",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "4021234123",
+                  "communicationNumberTypeId": "TE"
+                }
+              },
+              {
+                "loadLevel": "SR",
+                "id": 11,
+                "name": "John Doe",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "jdoe@gmail.com",
+                  "communicationNumberTypeId": "EA"
                 }
               }
             ]
@@ -298,59 +322,42 @@
         "references": [
           {
             "loadLevel": "SR",
-            "id": 5,
-            "loadId": 5,
+            "id": 7,
+            "loadId": 7,
             "value": "23977239",
             "code": "DO",
             "desc": "Delivery Order Number"
           }
         ],
-        "shipmentStatuses": [
-          {
-            "id": 66,
-            "segmentNumber": "303160000002",
-            "location": {
-              "id": -2,
-              "name": "Pack On The Go",
-              "address": {
-                "address1": "1520 S Powerline Rd",
-                "city": "Deerfield Beach",
-                "state": "FL",
-                "postalCode": "33442",
-                "country": "USA"
-              }
-            },
-            "positionCityState": "Omaha, NE",
-            "comments": "Omaha,NE"
-          }
-        ],
+        "shipmentStatuses": [],
         "serviceStatuses": [],
         "carrier": {
-          "carrierIdent": "100011818",
-          "name": "HERREID TRANSPORT LLC",
-          "email": "WILLIAMHERREIDJR@YAHOO.COM",
-          "contactNumber": "6083265444",
+          "carrierIdent": "100011816",
+          "name": "GILL 22 TRUCKING LLC",
+          "email": "GILL22LLC@GMAIL.COM",
+          "contactNumber": "4147552322",
           "addressVo": {
-            "address1": "PO BOX 306",
+            "address1": "503 E CONNER CT",
             "address2": "",
-            "city": "PRAIRIE DU CHIEN",
+            "city": "OAK CREEK",
             "state": "WI",
-            "postalCode": "53821",
+            "postalCode": "53154",
             "country": "USA"
           }
-        }
+        },
+        "freightStatus": "PNDG"
       },
       {
-        "id": 4,
-        "identificationNumber": "303160000004",
+        "id": 14,
+        "identificationNumber": "303160000014",
         "orders": [
           {
             "loadLevel": "SG",
-            "id": 4,
+            "id": 13,
             "orderNumber": "23977239",
             "freights": [
               {
-                "id": 4,
+                "id": 13,
                 "description": "1 NIB office desk",
                 "unitizedQuantity": {},
                 "nonUnitizedQuantity": {},
@@ -368,7 +375,40 @@
         ],
         "stops": [
           {
-            "id": 9,
+            "id": 25,
+            "seqNumber": 1,
+            "location": {
+              "id": 13,
+              "name": "DENVER WAREHOUSE",
+              "locationIdentifier": "FLHYS3DM",
+              "address": {
+                "address1": "4905 MOORES MILL ROAD",
+                "city": "Denver",
+                "state": "CO",
+                "postalCode": "80208",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2017-02-01",
+              "time": null
+            },
+            "actualArrivedDateTime": {
+              "date": "2017-01-01",
+              "time": "10:00:00"
+            },
+            "actualDepartedDateTime": {
+              "date": "2017-01-01",
+              "time": "10:10:00"
+            },
+            "contacts": []
+          },
+          {
+            "id": 27,
             "seqNumber": 2,
             "location": {
               "id": -2,
@@ -390,45 +430,12 @@
               "time": null
             },
             "actualArrivedDateTime": {
-              "date": "2017-02-01",
-              "time": null
+              "date": "2017-01-01",
+              "time": "10:00:00"
             },
             "actualDepartedDateTime": {
-              "date": "2017-02-01",
-              "time": null
-            },
-            "contacts": []
-          },
-          {
-            "id": 7,
-            "seqNumber": 1,
-            "location": {
-              "id": 9,
-              "name": "DENVER WAREHOUSE",
-              "locationIdentifier": "FLHYS3DM",
-              "address": {
-                "address1": "4905 MOORES MILL ROAD",
-                "city": "Denver",
-                "state": "CO",
-                "postalCode": "80208",
-                "country": "USA"
-              }
-            },
-            "apptTypeId": "N",
-            "apptSubTypeId": null,
-            "schEarliestDateTime": null,
-            "schTargetDateTime": null,
-            "schLatestDateTime": {
-              "date": "2017-02-01",
-              "time": null
-            },
-            "actualArrivedDateTime": {
-              "date": "2017-02-01",
-              "time": null
-            },
-            "actualDepartedDateTime": {
-              "date": "2017-02-01",
-              "time": null
+              "date": "2017-01-01",
+              "time": "10:10:00"
             },
             "contacts": []
           }
@@ -437,33 +444,14 @@
         "references": [
           {
             "loadLevel": "SR",
-            "id": 5,
-            "loadId": 5,
+            "id": 7,
+            "loadId": 7,
             "value": "23977239",
             "code": "DO",
             "desc": "Delivery Order Number"
           }
         ],
-        "shipmentStatuses": [
-          {
-            "id": 65,
-            "segmentNumber": "303160000004",
-            "location": {
-              "id": 9,
-              "name": "DENVER WAREHOUSE",
-              "locationIdentifier": "FLHYS3DM",
-              "address": {
-                "address1": "4905 MOORES MILL ROAD",
-                "city": "Denver",
-                "state": "CO",
-                "postalCode": "80208",
-                "country": "USA"
-              }
-            },
-            "positionCityState": "Omaha, NE",
-            "comments": "Omaha,NE"
-          }
-        ],
+        "shipmentStatuses": [],
         "serviceStatuses": [],
         "carrier": {
           "carrierIdent": "100006846",
@@ -479,7 +467,8 @@
             "postalCode": "43015",
             "country": "USA"
           }
-        }
+        },
+        "freightStatus": "PNDG"
       }
     ]
   }
