@@ -10,18 +10,25 @@
           "orderNumber": "23977239",
           "freights": [
             {
-              "id": 5,
-              "description": "1 NIB office desk",
-              "unitizedQuantity": {},
-              "nonUnitizedQuantity": {},
-              "weight": null,
-              "dimensions": {
-                "dimLength": 30,
-                "dimWidth": 70,
-                "dimHeight": 28,
-                "dimLwhMeasurementUnitTypeId": "N"
+              "id": 1294,
+              "description": "Table",
+              "unitizedQuantity": {
+                "quantity": 1,
+                "quantityUom": "PCS"
               },
-              "freightClass": "125       "
+              "nonUnitizedQuantity": {},
+              "weight": {
+                "weight": 20,
+                "weightUOM": "L",
+                "type": "G"
+              },
+              "dimensions": {
+                "dimLength": 72,
+                "dimWidth": 36,
+                "dimHeight": 36,
+                "dimLwhMeasurementUnitTypeId": "E"
+              },
+              "freightClass": "125"
             }
           ]
         }
