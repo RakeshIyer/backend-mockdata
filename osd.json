@@ -1,0 +1,2780 @@
+{
+  "resultList": [
+    {
+      "segmentId": 7,
+      "segmentRefNumber": "303160000006",
+      "shipperReferenceNumber": "302160000002",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100011816",
+          "name": "GILL 22 TRUCKING LLC"
+        },
+        "ltl": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "John Doe",
+            "telephone": "jdoe@gmail.com"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2016-10-25T14:06:18.436",
+      "osd": {
+        "osdId": 6,
+        "originStopId": 13,
+        "destinationStopId": 15,
+        "consigneeRefuse": false,
+        "selectedStopId": 15,
+        "overage": {
+          "count": 5,
+          "uom": "BOX"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX"
+        }
+      }
+    },
+    {
+      "segmentId": 99,
+      "segmentRefNumber": "303160000096",
+      "shipperReferenceNumber": "302160000052",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "ltl": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "customer": {
+          "ident": "10012",
+          "name": "ABC COMPANY                                       ",
+          "address": {
+            "address1": "14507 FRONTIER RD                                      ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "OMAHA                                   ",
+            "state": "NE ",
+            "postalCode": "68138      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Amy Balzer",
+            "telephone": "ab@gmail.com"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2016-11-16T15:55:43.189",
+      "osd": {
+        "osdId": 29,
+        "originStopId": 197,
+        "destinationStopId": 198,
+        "consigneeRefuse": false,
+        "selectedStopId": 198,
+        "overage": {
+          "count": 8,
+          "uom": "BOX",
+          "comment": "test14"
+        },
+        "shortage": {
+          "count": 9,
+          "uom": "BOX",
+          "comment": "test12"
+        }
+      }
+    },
+    {
+      "segmentId": 93,
+      "segmentRefNumber": "303160000095",
+      "shipperReferenceNumber": "302160000054",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "ltl": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "customer": {
+          "ident": "10012",
+          "name": "ABC COMPANY                                       ",
+          "address": {
+            "address1": "14507 FRONTIER RD                                      ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "OMAHA                                   ",
+            "state": "NE ",
+            "postalCode": "68138      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "N.P. Route",
+            "telephone": "np@gmail.com"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2016-11-17T13:25:26.938",
+      "osd": {
+        "osdId": 35,
+        "originStopId": 185,
+        "destinationStopId": 186,
+        "consigneeRefuse": false,
+        "selectedStopId": 186,
+        "overage": {
+          "count": 5,
+          "uom": "BOX",
+          "comment": "test23"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX",
+          "comment": "test23"
+        }
+      }
+    },
+    {
+      "segmentId": 926,
+      "segmentRefNumber": "303170000926",
+      "shipperReferenceNumber": "302170000756",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "asdsad",
+            "telephone": "asdasd"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-01-24T12:17:38.608",
+      "osd": {
+        "osdId": 42,
+        "originStopId": 1824,
+        "destinationStopId": 1825,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "deliver it",
+        "selectedStopId": 1824,
+        "damage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "Big Box damage"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 968,
+      "segmentRefNumber": "303170000968",
+      "returnSegmentNumber": "303170001610",
+      "shipperReferenceNumber": "302170000825",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-03T16:27:55.314",
+      "osd": {
+        "osdId": 88,
+        "originStopId": 1915,
+        "destinationStopId": 1916,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "dfgrfgfg",
+        "selectedStopId": 1915,
+        "overage": {
+          "count": 1,
+          "uom": "CTN",
+          "comment": "sdsds"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 970,
+      "segmentRefNumber": "303170000970",
+      "returnSegmentNumber": "303170001611",
+      "shipperReferenceNumber": "302170000826",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-03T16:51:01.006",
+      "osd": {
+        "osdId": 90,
+        "originStopId": 1919,
+        "destinationStopId": 1920,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "assdsad",
+        "selectedStopId": 1919,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "assadas"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 1052,
+      "segmentRefNumber": "303170001052",
+      "returnSegmentNumber": "303170001613",
+      "shipperReferenceNumber": "302170000915",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Tim Allen",
+            "telephone": "5454556666"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-02T16:55:13.972",
+      "osd": {
+        "osdId": 85,
+        "originStopId": 2083,
+        "destinationStopId": 2084,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sasdsadsad",
+        "selectedStopId": 2083,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "sasadsdsd"
+        }
+      },
+      "quantity": "1 CTN"
+    },
+    {
+      "segmentId": 1118,
+      "segmentRefNumber": "303170001118",
+      "shipperReferenceNumber": "302170000950",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-02T11:04:37.004",
+      "osd": {
+        "osdId": 76,
+        "originStopId": 2215,
+        "destinationStopId": 2216,
+        "consigneeRefuse": false,
+        "csmInstruction": "PDSPS",
+        "csmInstructionComments": "main",
+        "selectedStopId": 2215,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "test"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 1118,
+      "segmentRefNumber": "303170001118",
+      "shipperReferenceNumber": "302170000950",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-02T11:04:36.907",
+      "osd": {
+        "osdId": 75,
+        "originStopId": 2215,
+        "destinationStopId": 2216,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "dwsw",
+        "selectedStopId": 2215,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "testing now"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 1122,
+      "segmentRefNumber": "303170001122",
+      "shipperReferenceNumber": "302170000965",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "ABS",
+            "telephone": "4445556666"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-01-30T12:56:41.971",
+      "osd": {
+        "osdId": 44,
+        "originStopId": 2223,
+        "destinationStopId": 2224,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "selectedStopId": 2224,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "aadsd"
+        },
+        "damage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "Test Consignee Location"
+        }
+      },
+      "quantity": "1 CTN"
+    },
+    {
+      "segmentId": 1364,
+      "segmentRefNumber": "303170001364",
+      "returnSegmentNumber": "303170001365",
+      "shipperReferenceNumber": "302170001186",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mike T",
+            "telephone": "4025551212"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-22T16:21:32.499",
+      "osd": {
+        "osdId": 157,
+        "originStopId": 2641,
+        "destinationStopId": 2642,
+        "consigneeRefuse": true,
+        "selectedStopId": 2642,
+        "damage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "Smashed"
+        }
+      },
+      "quantity": "1 BOX"
+    },
+    {
+      "segmentId": 1364,
+      "segmentRefNumber": "303170001364",
+      "returnSegmentNumber": "303170001365",
+      "shipperReferenceNumber": "302170001186",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mike T",
+            "telephone": "4025551212"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-14T06:46:19.178",
+      "osd": {
+        "osdId": 129,
+        "originStopId": 2641,
+        "destinationStopId": 2642,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "Send it back",
+        "selectedStopId": 2641,
+        "damage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "Big Dent in Corner"
+        }
+      },
+      "quantity": "1 BOX"
+    },
+    {
+      "segmentId": 1427,
+      "segmentRefNumber": "303170001427",
+      "shipperReferenceNumber": "302170001270",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T14:21:59.888",
+      "osd": {
+        "osdId": 138,
+        "originStopId": 2766,
+        "destinationStopId": 2767,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "frfsdf",
+        "selectedStopId": 2766,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "dasd"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 1431,
+      "segmentRefNumber": "303170001431",
+      "returnSegmentNumber": "303170001449",
+      "shipperReferenceNumber": "302170001275",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T14:16:41.664",
+      "osd": {
+        "osdId": 136,
+        "originStopId": 2774,
+        "destinationStopId": 2775,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "asdasd",
+        "selectedStopId": 2774,
+        "overage": {
+          "count": 1,
+          "uom": "CRT",
+          "comment": "saSsa"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 1433,
+      "segmentRefNumber": "303170001433",
+      "returnSegmentNumber": "303170001448",
+      "shipperReferenceNumber": "302170001282",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Ameet",
+            "telephone": "4565564433"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T14:08:47.277",
+      "osd": {
+        "osdId": 135,
+        "originStopId": 2778,
+        "destinationStopId": 2779,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "qaaa",
+        "selectedStopId": 2778,
+        "overage": {
+          "count": 1,
+          "uom": "CRT",
+          "comment": "dsadsa"
+        }
+      },
+      "quantity": "1 PKG"
+    },
+    {
+      "segmentId": 1435,
+      "segmentRefNumber": "303170001435",
+      "returnSegmentNumber": "303170001447",
+      "shipperReferenceNumber": "302170001287",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mrs. Mike",
+            "telephone": "4894558745"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T14:00:06.026",
+      "osd": {
+        "osdId": 134,
+        "originStopId": 2782,
+        "destinationStopId": 2783,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sdad",
+        "selectedStopId": 2782,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "dsadas"
+        }
+      },
+      "quantity": "1 BOX"
+    },
+    {
+      "segmentId": 1443,
+      "segmentRefNumber": "303170001443",
+      "returnSegmentNumber": "303170001444",
+      "shipperReferenceNumber": "302170001293",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mike M",
+            "telephone": "4023336666"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T13:31:36.439",
+      "osd": {
+        "osdId": 131,
+        "originStopId": 2798,
+        "destinationStopId": 2799,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "sdfsfsd",
+        "selectedStopId": 2798,
+        "overage": {
+          "count": 1,
+          "uom": "PLT",
+          "comment": "dssdsdsdsd"
+        }
+      },
+      "quantity": "1 BOX"
+    },
+    {
+      "segmentId": 1468,
+      "segmentRefNumber": "303170001468",
+      "returnSegmentNumber": "303170001469",
+      "shipperReferenceNumber": "302170001306",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100005912",
+          "name": "HAWKEYE MOVING SERVICES INC."
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mr. Consignee",
+            "telephone": "7121239876"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T15:09:09.477",
+      "osd": {
+        "osdId": 140,
+        "originStopId": 2841,
+        "destinationStopId": 2842,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "11",
+        "selectedStopId": 2841,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "ds"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1699,
+      "segmentRefNumber": "303170001699",
+      "shipperReferenceNumber": "302170001431",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mike",
+            "telephone": "4021112222"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-24T11:49:28.863",
+      "osd": {
+        "osdId": 162,
+        "originStopId": 3304,
+        "destinationStopId": 3305,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "dsadas",
+        "selectedStopId": 3305,
+        "damage": {
+          "count": 120,
+          "uom": "BOX",
+          "comment": "So Badly Damages"
+        }
+      },
+      "quantity": "1 BOX"
+    },
+    {
+      "segmentId": 1699,
+      "segmentRefNumber": "303170001699",
+      "shipperReferenceNumber": "302170001431",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "contact": {
+            "name": "Mike",
+            "telephone": "4021112222"
+          }
+        }
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-24T11:37:01.526",
+      "osd": {
+        "osdId": 161,
+        "originStopId": 3304,
+        "destinationStopId": 3305,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "Test",
+        "selectedStopId": 3304,
+        "shortage": {
+          "count": 224,
+          "uom": "BOX",
+          "comment": "SOOO Short"
+        }
+      },
+      "quantity": "1 BOX"
+    },
+    {
+      "segmentId": 68,
+      "segmentRefNumber": "303160000068",
+      "shipperReferenceNumber": "302160000033",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "ltl": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2016-10-24T15:03:21.723",
+      "osd": {
+        "osdId": 4,
+        "originStopId": 135,
+        "destinationStopId": 136,
+        "consigneeRefuse": false,
+        "selectedStopId": 136,
+        "overage": {
+          "count": 5,
+          "uom": "BOX"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX"
+        }
+      }
+    },
+    {
+      "segmentId": 1262,
+      "segmentRefNumber": "303170001262",
+      "returnSegmentNumber": "303170001263",
+      "shipperReferenceNumber": "302170001068",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T10:44:39.873",
+      "osd": {
+        "osdId": 113,
+        "originStopId": 2451,
+        "destinationStopId": 2452,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sadasdasa",
+        "selectedStopId": 2451,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "sdsadsa"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1283,
+      "segmentRefNumber": "303170001283",
+      "returnSegmentNumber": "303170001290",
+      "shipperReferenceNumber": "302170001130",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T12:12:48.874",
+      "osd": {
+        "osdId": 114,
+        "originStopId": 2492,
+        "destinationStopId": 2493,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "sdsasd",
+        "selectedStopId": 2492,
+        "overage": {
+          "count": 1,
+          "uom": "CRT",
+          "comment": "asasda"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1166,
+      "segmentRefNumber": "303170001166",
+      "shipperReferenceNumber": "302170001012",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-02T10:35:22.001",
+      "osd": {
+        "osdId": 68,
+        "originStopId": 2311,
+        "destinationStopId": 2312,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "sdsadw",
+        "selectedStopId": 2311,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "ssds"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1166,
+      "segmentRefNumber": "303170001166",
+      "shipperReferenceNumber": "302170001012",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-07T11:20:46.579",
+      "osd": {
+        "osdId": 105,
+        "originStopId": 2311,
+        "destinationStopId": 2312,
+        "consigneeRefuse": true,
+        "selectedStopId": 2312,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "test"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1184,
+      "segmentRefNumber": "303170001184",
+      "returnSegmentNumber": "303170001209",
+      "shipperReferenceNumber": "302170001035",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-06T14:37:37.273",
+      "osd": {
+        "osdId": 104,
+        "originStopId": 2325,
+        "destinationStopId": 2326,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sadsd",
+        "selectedStopId": 2325,
+        "shortage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "sdsada"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1225,
+      "segmentRefNumber": "303170001225",
+      "returnSegmentNumber": "303170001238",
+      "shipperReferenceNumber": "302170001046",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-07T13:23:24.347",
+      "osd": {
+        "osdId": 107,
+        "originStopId": 2388,
+        "destinationStopId": 2389,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "fdsfdsfsa",
+        "selectedStopId": 2388,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "test"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1295,
+      "segmentRefNumber": "303170001295",
+      "returnSegmentNumber": "303170001296",
+      "shipperReferenceNumber": "302170001135",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T13:49:56.006",
+      "osd": {
+        "osdId": 116,
+        "originStopId": 2514,
+        "destinationStopId": 2515,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "dsadds",
+        "selectedStopId": 2514,
+        "overage": {
+          "count": 1,
+          "uom": "PKG",
+          "comment": "sdfd"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1298,
+      "segmentRefNumber": "303170001298",
+      "returnSegmentNumber": "303170001608",
+      "shipperReferenceNumber": "302170001136",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T14:56:05.019",
+      "osd": {
+        "osdId": 117,
+        "originStopId": 2518,
+        "destinationStopId": 2520,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "sdsadsf",
+        "selectedStopId": 2518,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "ssadddadsadasdasdsaddasdsa"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1235,
+      "segmentRefNumber": "303170001235",
+      "returnSegmentNumber": "303170001609",
+      "shipperReferenceNumber": "302170001048",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-07T15:03:05.037",
+      "osd": {
+        "osdId": 108,
+        "originStopId": 2402,
+        "destinationStopId": 2403,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "aSA",
+        "selectedStopId": 2402,
+        "shortage": {
+          "count": 111,
+          "uom": "PCS",
+          "comment": "AS"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1309,
+      "segmentRefNumber": "303170001309",
+      "returnSegmentNumber": "303170001314",
+      "shipperReferenceNumber": "302170001140",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T15:34:38.341",
+      "osd": {
+        "osdId": 121,
+        "originStopId": 2538,
+        "destinationStopId": 2539,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "testing",
+        "selectedStopId": 2538,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "testing"
+        },
+        "shortage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "meet"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1322,
+      "segmentRefNumber": "303170001322",
+      "returnSegmentNumber": "303170001325",
+      "shipperReferenceNumber": "302170001145",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T17:08:41.936",
+      "osd": {
+        "osdId": 124,
+        "originStopId": 2561,
+        "destinationStopId": 2562,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "qweqew",
+        "selectedStopId": 2561,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "sdasas"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1305,
+      "segmentRefNumber": "303170001305",
+      "returnSegmentNumber": "303170001306",
+      "shipperReferenceNumber": "302170001138",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T15:14:14.947",
+      "osd": {
+        "osdId": 119,
+        "originStopId": 2532,
+        "destinationStopId": 2533,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sadas",
+        "selectedStopId": 2532,
+        "shortage": {
+          "count": 1,
+          "uom": "PLT",
+          "comment": "sssss"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1482,
+      "segmentRefNumber": "303170001482",
+      "returnSegmentNumber": "303170001483",
+      "shipperReferenceNumber": "302170001311",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T15:31:01.259",
+      "osd": {
+        "osdId": 142,
+        "originStopId": 2870,
+        "destinationStopId": 2871,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sdsads",
+        "selectedStopId": 2870,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "sasd"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1146,
+      "segmentRefNumber": "303170001146",
+      "shipperReferenceNumber": "302170000995",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-01T16:19:38.719",
+      "osd": {
+        "osdId": 50,
+        "originStopId": 2271,
+        "destinationStopId": 2272,
+        "consigneeRefuse": false,
+        "csmInstruction": "DELVR",
+        "csmInstructionComments": "sasa",
+        "selectedStopId": 2271,
+        "shortage": {
+          "count": 12,
+          "uom": "PCS",
+          "comment": "112"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 69,
+      "segmentRefNumber": "303160000069",
+      "shipperReferenceNumber": "302160000036",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "ltl": {
+          "ident": "100006846",
+          "name": "5AAB TRANSPORT LLC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2016-10-24T13:25:32.375",
+      "osd": {
+        "osdId": 3,
+        "originStopId": 137,
+        "destinationStopId": 138,
+        "consigneeRefuse": false,
+        "selectedStopId": 138,
+        "overage": {
+          "count": 5,
+          "uom": "BOX"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX"
+        }
+      }
+    },
+    {
+      "segmentId": 772,
+      "segmentRefNumber": "303170000772",
+      "returnSegmentNumber": "303170001651",
+      "shipperReferenceNumber": "302170000573",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-01-17T11:12:18.194",
+      "osd": {
+        "osdId": 41,
+        "originStopId": 1516,
+        "destinationStopId": 1517,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "hulk",
+        "selectedStopId": 1516,
+        "overage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "test"
+        },
+        "damage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "Dent in lower left corner. Not sure about hidden damage."
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1136,
+      "segmentRefNumber": "303170001136",
+      "shipperReferenceNumber": "302170000985",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-02T16:15:43.046",
+      "osd": {
+        "osdId": 84,
+        "originStopId": 2251,
+        "destinationStopId": 2252,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "sdsad",
+        "selectedStopId": 2251,
+        "overage": {
+          "count": 11,
+          "uom": "BOX",
+          "comment": "sasd"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1505,
+      "segmentRefNumber": "303170001505",
+      "shipperReferenceNumber": "302170001333",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-20T06:01:21.724",
+      "osd": {
+        "osdId": 146,
+        "originStopId": 2916,
+        "destinationStopId": 2917,
+        "consigneeRefuse": false,
+        "csmInstruction": "DELVR",
+        "csmInstructionComments": "Go ahead and deliver",
+        "selectedStopId": 2916,
+        "overage": {
+          "count": 12,
+          "uom": "PCS",
+          "comment": "Too many"
+        },
+        "shortage": {
+          "count": 10,
+          "uom": "BOX",
+          "comment": "Too Few"
+        },
+        "damage": {
+          "count": 2,
+          "uom": "CTN",
+          "comment": "Gaping Hole in Carton"
+        },
+        "other": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "Test Edit"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1311,
+      "segmentRefNumber": "303170001311",
+      "returnSegmentNumber": "303170001315",
+      "shipperReferenceNumber": "302170001142",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T15:46:33.894",
+      "osd": {
+        "osdId": 122,
+        "originStopId": 2542,
+        "destinationStopId": 2543,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "12121",
+        "selectedStopId": 2542,
+        "overage": {
+          "count": 1,
+          "uom": "PKG",
+          "comment": "sdsd"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1317,
+      "segmentRefNumber": "303170001317",
+      "returnSegmentNumber": "303170001318",
+      "shipperReferenceNumber": "302170001143",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T16:02:42.622",
+      "osd": {
+        "osdId": 123,
+        "originStopId": 2552,
+        "destinationStopId": 2553,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sdsada",
+        "selectedStopId": 2552,
+        "overage": {
+          "count": 101,
+          "uom": "PLT",
+          "comment": "sdsads"
+        },
+        "shortage": {
+          "count": 115,
+          "uom": "CRT",
+          "comment": "Games"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1292,
+      "segmentRefNumber": "303170001292",
+      "returnSegmentNumber": "303170001293",
+      "shipperReferenceNumber": "302170001134",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T13:12:05.637",
+      "osd": {
+        "osdId": 115,
+        "originStopId": 2509,
+        "destinationStopId": 2510,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "test",
+        "selectedStopId": 2509,
+        "overage": {
+          "count": 1,
+          "uom": "PKG",
+          "comment": "sdsdsadsa"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1300,
+      "segmentRefNumber": "303170001300",
+      "returnSegmentNumber": "303170001301",
+      "shipperReferenceNumber": "302170001137",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T15:04:10.7",
+      "osd": {
+        "osdId": 118,
+        "originStopId": 2522,
+        "destinationStopId": 2523,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "sadsdcxcc",
+        "selectedStopId": 2522,
+        "overage": {
+          "count": 11,
+          "uom": "PCS",
+          "comment": "Pack it"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1300,
+      "segmentRefNumber": "303170001300",
+      "returnSegmentNumber": "303170001301",
+      "shipperReferenceNumber": "302170001137",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-22T13:47:01.512",
+      "osd": {
+        "osdId": 156,
+        "originStopId": 2522,
+        "destinationStopId": 2523,
+        "consigneeRefuse": false,
+        "selectedStopId": 2523,
+        "overage": {
+          "count": 3,
+          "uom": "PCS",
+          "comment": "Pack it"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1050,
+      "segmentRefNumber": "303170001050",
+      "returnSegmentNumber": "303170001612",
+      "shipperReferenceNumber": "302170000914",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-06T13:38:16.667",
+      "osd": {
+        "osdId": 103,
+        "originStopId": 2079,
+        "destinationStopId": 2080,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "dasdsds",
+        "selectedStopId": 2079,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "asdsd"
+        }
+      },
+      "quantity": "2 PCS"
+    },
+    {
+      "segmentId": 1116,
+      "segmentRefNumber": "303170001116",
+      "shipperReferenceNumber": "302170000949",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-01-24T12:53:15.779",
+      "osd": {
+        "osdId": 43,
+        "originStopId": 2211,
+        "destinationStopId": 2212,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "selectedStopId": 2211,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "over test"
+        },
+        "shortage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "Test Single OSD"
+        }
+      },
+      "quantity": "2 PCS"
+    },
+    {
+      "segmentId": 1054,
+      "segmentRefNumber": "303170001054",
+      "returnSegmentNumber": "303170001614",
+      "shipperReferenceNumber": "302170000916",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-06T12:58:45.941",
+      "osd": {
+        "osdId": 101,
+        "originStopId": 2087,
+        "destinationStopId": 2088,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "ssas",
+        "selectedStopId": 2087,
+        "overage": {
+          "count": 11,
+          "uom": "PCS",
+          "comment": "dsd"
+        }
+      },
+      "quantity": "2 PCS"
+    },
+    {
+      "segmentId": 1503,
+      "segmentRefNumber": "303170001503",
+      "shipperReferenceNumber": "302170001332",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-20T06:27:58.387",
+      "osd": {
+        "osdId": 147,
+        "originStopId": 2912,
+        "destinationStopId": 2913,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "Test",
+        "selectedStopId": 2912,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "Over"
+        },
+        "damage": {
+          "count": 2,
+          "uom": "CTN",
+          "comment": "Damage"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1164,
+      "segmentRefNumber": "303170001164",
+      "shipperReferenceNumber": "302170001011",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-02T10:40:48.065",
+      "osd": {
+        "osdId": 69,
+        "originStopId": 2307,
+        "destinationStopId": 2308,
+        "consigneeRefuse": false,
+        "csmInstruction": "DELVR",
+        "csmInstructionComments": "Testing Raj",
+        "selectedStopId": 2307,
+        "shortage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "lost arrow"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1452,
+      "segmentRefNumber": "303170001452",
+      "returnSegmentNumber": "303170001456",
+      "shipperReferenceNumber": "302170001299",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T14:30:48.406",
+      "osd": {
+        "osdId": 139,
+        "originStopId": 2810,
+        "destinationStopId": 2811,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "1111",
+        "selectedStopId": 2810,
+        "overage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "sssds"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1188,
+      "segmentRefNumber": "303170001188",
+      "returnSegmentNumber": "303170001221",
+      "shipperReferenceNumber": "302170001037",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-07T12:01:17.747",
+      "osd": {
+        "osdId": 106,
+        "originStopId": 2333,
+        "destinationStopId": 2334,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "tst",
+        "selectedStopId": 2333,
+        "overage": {
+          "count": 11,
+          "uom": "PCS",
+          "comment": "saasds"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1466,
+      "segmentRefNumber": "303170001466",
+      "returnSegmentNumber": "303170001470",
+      "shipperReferenceNumber": "302170001305",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-22T11:02:41.284",
+      "osd": {
+        "osdId": 155,
+        "originStopId": 2838,
+        "destinationStopId": 2839,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "Test",
+        "selectedStopId": 2839,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "Test Overage"
+        },
+        "shortage": {
+          "count": 2,
+          "uom": "BOX",
+          "comment": "Test Shortage"
+        },
+        "damage": {
+          "count": 3,
+          "uom": "CTN",
+          "comment": "Test Damage"
+        },
+        "other": {
+          "count": 4,
+          "uom": "CRT",
+          "comment": "Test Other"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1466,
+      "segmentRefNumber": "303170001466",
+      "returnSegmentNumber": "303170001470",
+      "shipperReferenceNumber": "302170001305",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-15T15:12:09.245",
+      "osd": {
+        "osdId": 141,
+        "originStopId": 2838,
+        "destinationStopId": 2839,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "ss",
+        "selectedStopId": 2838,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "1111s"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1251,
+      "segmentRefNumber": "303170001251",
+      "returnSegmentNumber": "303170001258",
+      "shipperReferenceNumber": "302170001059",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T09:36:04.477",
+      "osd": {
+        "osdId": 112,
+        "originStopId": 2430,
+        "destinationStopId": 2431,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "fdsfsdf",
+        "selectedStopId": 2430,
+        "shortage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "saasds"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 1303,
+      "segmentRefNumber": "303170001303",
+      "returnSegmentNumber": "303170001307",
+      "shipperReferenceNumber": "302170001139",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED"
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC"
+        },
+        "customer": {
+          "ident": "12011",
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {}
+      },
+      "photoLink": "https://cde-iview.werner.com",
+      "submissionDt": "2017-02-08T15:24:45.073",
+      "osd": {
+        "osdId": 120,
+        "originStopId": 2528,
+        "destinationStopId": 2529,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "dsfsdf",
+        "selectedStopId": 2528,
+        "overage": {
+          "count": 1,
+          "uom": "PKG",
+          "comment": "dssdsds"
+        }
+      },
+      "quantity": "1 PCS"
+    }
+  ]
+}
