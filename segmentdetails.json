@@ -1,50 +1,42 @@
 [
   {
-    "id": 1157,
-    "identificationNumber": "303170001157",
+    "id": 69,
+    "identificationNumber": "303160000069",
     "orders": [
       {
         "loadLevel": "SG",
-        "id": 1167,
+        "id": 69,
         "orderNumber": "23977239",
         "freights": [
           {
-            "id": 1171,
+            "id": 69,
             "description": "1 NIB office desk",
-            "unitizedQuantity": {
-              "quantity": 1,
-              "quantityUom": "PCS"
-            },
+            "unitizedQuantity": {},
             "nonUnitizedQuantity": {},
-            "weight": {
-              "weight": 200,
-              "weightUOM": "L",
-              "type": "G"
-            },
+            "weight": null,
             "dimensions": {
               "dimLength": 30,
               "dimWidth": 70,
               "dimHeight": 28,
               "dimLwhMeasurementUnitTypeId": "N"
             },
-            "freightClass": "125"
+            "freightClass": "125       "
           }
         ]
       }
     ],
     "stops": [
       {
-        "id": 2294,
-        "seqNumber": 2,
+        "id": 137,
+        "seqNumber": 1,
         "location": {
-          "id": 1314,
-          "name": "BELTMANN GROUP INCORPORATED",
-          "locationIdentifier": "DR4U77S5",
+          "id": -2,
+          "name": "Pack On The Go",
           "address": {
-            "address1": "4897 Lewis Rd. Unit C",
-            "city": "Stone Mountain",
-            "state": "GA",
-            "postalCode": "30083",
+            "address1": "1520 S Powerline Rd",
+            "city": "Deerfield Beach",
+            "state": "FL",
+            "postalCode": "33442",
             "country": "USA"
           }
         },
@@ -53,7 +45,7 @@
         "schEarliestDateTime": null,
         "schTargetDateTime": null,
         "schLatestDateTime": {
-          "date": "2016-04-11",
+          "date": "2017-02-01",
           "time": null
         },
         "actualArrivedDateTime": {
@@ -67,17 +59,16 @@
         "contacts": []
       },
       {
-        "id": 2293,
-        "seqNumber": 1,
+        "id": 138,
+        "seqNumber": 2,
         "location": {
-          "id": 2581,
-          "name": "WAREHOUSE",
-          "locationIdentifier": "QVJKFLKL",
+          "id": 74,
+          "name": "International Links Melreese Country Club",
           "address": {
-            "address1": "5168 Avanti Ct",
-            "city": "Stone Mountain",
-            "state": "GA",
-            "postalCode": "30088",
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
             "country": "USA"
           }
         },
@@ -86,7 +77,7 @@
         "schEarliestDateTime": null,
         "schTargetDateTime": null,
         "schLatestDateTime": {
-          "date": "2016-04-11",
+          "date": "2017-02-01",
           "time": null
         },
         "actualArrivedDateTime": {
@@ -100,113 +91,758 @@
         "contacts": []
       }
     ],
-    "comments": [],
+    "comments": [
+      {
+        "loadLevel": "SG",
+        "id": 6,
+        "noteReferenceCodeId": "AAA",
+        "comment": "AAA"
+      },
+      {
+        "loadLevel": "SG",
+        "id": 222,
+        "noteReferenceCodeId": "AAA",
+        "comment": "AAA"
+      }
+    ],
     "references": [
       {
-        "loadLevel": "SG",
-        "id": 553,
-        "loadId": 1157,
-        "value": "WernerFM",
-        "code": "_0L",
-        "desc": "Referenced By"
-      },
-      {
         "loadLevel": "SR",
-        "id": 1326,
-        "loadId": 1281,
-        "value": "23977239",
+        "id": 37,
+        "loadId": 37,
+        "value": "23977239245",
         "code": "DO",
         "desc": "Delivery Order Number"
-      },
-      {
-        "loadLevel": "SR",
-        "id": 1325,
-        "loadId": 1281,
-        "value": "AMEET1",
-        "code": "WH",
-        "desc": "Master Reference (Link) Number"
-      },
-      {
-        "loadLevel": "SG",
-        "id": 552,
-        "loadId": 1157,
-        "value": "303170001158",
-        "code": "_0L",
-        "desc": "Referenced By"
-      },
-      {
-        "loadLevel": "SR",
-        "id": 1327,
-        "loadId": 1281,
-        "value": "SEE",
-        "code": "M6",
-        "desc": "Military Ordnance Security Risk Number"
       }
     ],
     "shipmentStatuses": [
       {
-        "id": 605,
-        "segmentNumber": "303170001157",
+        "id": 107,
+        "segmentNumber": "303160000069",
         "location": {
-          "id": 1314,
-          "name": "BELTMANN GROUP INCORPORATED",
-          "locationIdentifier": "DR4U77S5",
+          "id": 74,
+          "name": "International Links Melreese Country Club",
           "address": {
-            "address1": "4897 Lewis Rd. Unit C",
-            "city": "Stone Mountain",
-            "state": "GA",
-            "postalCode": "30083",
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
             "country": "USA"
           }
         },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
         "statusCode": "X1",
         "statusDescription": "Arrived at Delivery Location",
-        "comments": "",
-        "receivedDateTime": "2017-02-01T13:39:41.462"
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T10:02:29.666"
+      },
+      {
+        "id": 124,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T16:38:09.832"
+      },
+      {
+        "id": 114,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T12:47:17.995"
+      },
+      {
+        "id": 125,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T16:38:38.157"
+      },
+      {
+        "id": 105,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T09:43:12.942"
+      },
+      {
+        "id": 119,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T14:57:47.861"
+      },
+      {
+        "id": 204,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-11-29T15:19:52.788"
+      },
+      {
+        "id": 112,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T11:34:06.197"
+      },
+      {
+        "id": 183,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-11-16T15:24:01.848"
+      },
+      {
+        "id": 99,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-21T15:49:56.488"
+      },
+      {
+        "id": 116,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T13:25:11.041"
+      },
+      {
+        "id": 101,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T09:21:19.196"
+      },
+      {
+        "id": 104,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T09:36:26.888"
+      },
+      {
+        "id": 95,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-21T11:26:11.808"
+      },
+      {
+        "id": 106,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T09:56:27.513"
+      },
+      {
+        "id": 96,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-21T11:29:17.53"
+      },
+      {
+        "id": 111,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T11:09:54.037"
+      },
+      {
+        "id": 98,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-21T15:24:54.304"
+      },
+      {
+        "id": 184,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-11-16T15:26:10.442"
+      },
+      {
+        "id": 100,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-21T15:54:03.027"
+      },
+      {
+        "id": 110,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T10:47:27.854"
+      },
+      {
+        "id": 103,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T09:34:37.87"
+      },
+      {
+        "id": 108,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T10:35:05.046"
+      },
+      {
+        "id": 113,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T12:36:36.845"
+      },
+      {
+        "id": 102,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T09:33:54.715"
+      },
+      {
+        "id": 115,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T13:08:11.797"
+      },
+      {
+        "id": 109,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T10:43:29.431"
+      },
+      {
+        "id": 118,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T13:45:09.775"
+      },
+      {
+        "id": 123,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T15:04:31.964"
+      },
+      {
+        "id": 97,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-21T15:22:47.455"
+      },
+      {
+        "id": 117,
+        "segmentNumber": "303160000069",
+        "location": {
+          "id": 74,
+          "name": "International Links Melreese Country Club",
+          "address": {
+            "address1": "1802 NW 37th Ave",
+            "city": "Miami",
+            "state": "FL",
+            "postalCode": "33125",
+            "country": "USA"
+          }
+        },
+        "positionCityState": "Omaha, NE",
+        "reasonCode": null,
+        "reasonDescription": null,
+        "statusCode": "X1",
+        "statusDescription": "Arrived at Delivery Location",
+        "comments": "Omaha,NE",
+        "eventDateTime": "2016-10-07T23:49:00",
+        "receivedDateTime": "2016-10-24T13:29:48.087"
       }
     ],
-    "serviceStatuses": [
-      {
-        "identificationNumber": "303170001157",
-        "loadLevelType": "SG",
-        "status": "COMPLETED",
-        "type": "AddCharges",
-        "lastCalledDate": "2017-02-01T13:39:41.4"
-      },
-      {
-        "identificationNumber": "303170001157",
-        "loadLevelType": "SG",
-        "status": "COMPLETED",
-        "type": "TransitTime",
-        "lastCalledDate": "2017-02-01T13:39:38.39"
-      },
-      {
-        "identificationNumber": "303170001157",
-        "loadLevelType": "SG",
-        "status": "FAILED",
-        "description": "Non-published rates",
-        "type": "Rate",
-        "lastCalledDate": "2017-02-01T13:39:40.523"
-      },
-      {
-        "identificationNumber": "303170001157",
-        "loadLevelType": "SG",
-        "status": "COMPLETED",
-        "type": "Distance",
-        "lastCalledDate": "2017-02-01T13:39:39.496"
-      }
-    ],
+    "serviceStatuses": [],
     "carrier": {
-      "carrierIdent": "100010917",
-      "scac": "ABFS",
-      "name": "ABF FREIGHT SYSTEM INC",
-      "contactNumber": "479-785-6000",
+      "carrierIdent": "100006846",
+      "scac": "",
+      "name": "5AAB TRANSPORT LLC",
+      "email": "OSCAR@5AABTRANSPORT.COM",
+      "contactNumber": "6144236861",
       "addressVo": {
-        "address1": "PO BOX 10048",
+        "address1": "822 OAKLEY DR",
         "address2": "",
-        "city": "FORT SMITH",
-        "state": "AR",
-        "postalCode": "72917",
+        "city": "DELAWARE",
+        "state": "OH",
+        "postalCode": "43015",
         "country": "USA"
       }
     },
