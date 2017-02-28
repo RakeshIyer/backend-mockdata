@@ -26,6 +26,32 @@
                 "dimLength": 72,
                 "dimWidth": 36,
                 "dimHeight": 36,
+"shipment": {
+      "id": 1262,
+      "identificationNumber": "302170001265",
+      "orders": [
+        {
+          "loadLevel": "SH",
+          "id": 1283,
+          "orderNumber": "23977239",
+          "freights": [
+            {
+              "id": 1297,
+              "description": "Table",
+              "unitizedQuantity": {
+                "quantity": 1,
+                "quantityUom": "PCS"
+              },
+              "nonUnitizedQuantity": {},
+              "weight": {
+                "weight": 20,
+                "weightUOM": "L",
+                "type": "G"
+              },
+              "dimensions": {
+                "dimLength": 72,
+                "dimWidth": 36,
+                "dimHeight": 36,
                 "dimLwhMeasurementUnitTypeId": "E"
               },
               "freightClass": "125"
@@ -35,16 +61,16 @@
       ],
       "stops": [
         {
-          "id": 11,
+          "id": 2504,
           "seqNumber": 2,
           "location": {
-            "id": 14,
-            "name": "International Links Melreese Country Club",
+            "id": 3425,
+            "name": "American Building Supply",
             "address": {
-              "address1": "1802 NW 37th Ave",
-              "city": "Miami",
-              "state": "FL",
-              "postalCode": "33125",
+              "address1": "Bldg 2",
+              "city": "Atlanta",
+              "state": "GA",
+              "postalCode": "30349",
               "country": "USA"
             }
           },
@@ -58,61 +84,20 @@
           },
           "actualArrivedDateTime": null,
           "actualDepartedDateTime": null,
-          "contacts": [
-            {
-              "loadLevel": "SR",
-              "id": 2,
-              "name": "John Doe",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "jdoe@gmail.com",
-                "communicationNumberTypeId": "EA"
-              }
-            },
-            {
-              "loadLevel": "SR",
-              "id": 19,
-              "name": "John Doe",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "4021234123",
-                "communicationNumberTypeId": "TE"
-              }
-            },
-            {
-              "loadLevel": "SR",
-              "id": 1,
-              "name": "John Doe",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "4021234123",
-                "communicationNumberTypeId": "TE"
-              }
-            },
-            {
-              "loadLevel": "SR",
-              "id": 11,
-              "name": "John Doe",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "jdoe@gmail.com",
-                "communicationNumberTypeId": "EA"
-              }
-            }
-          ]
+          "contacts": []
         },
         {
-          "id": 9,
+          "id": 2503,
           "seqNumber": 1,
           "location": {
-            "id": 13,
-            "name": "DENVER WAREHOUSE",
-            "locationIdentifier": "FLHYS3DM",
+            "id": 3424,
+            "name": "GGGS LLC.",
+            "locationIdentifier": "PKWRYKGK",
             "address": {
-              "address1": "4905 MOORES MILL ROAD",
-              "city": "Denver",
-              "state": "CO",
-              "postalCode": "80208",
+              "address1": "13441 Erskine St",
+              "city": "Omaha",
+              "state": "NE",
+              "postalCode": "68164",
               "country": "USA"
             }
           },
@@ -121,7 +106,7 @@
           "schEarliestDateTime": null,
           "schTargetDateTime": null,
           "schLatestDateTime": {
-            "date": "2016-04-11",
+            "date": "2016-12-23",
             "time": null
           },
           "actualArrivedDateTime": null,
@@ -133,41 +118,72 @@
       "references": [
         {
           "loadLevel": "SR",
-          "id": 7,
-          "loadId": 7,
+          "id": 2075,
+          "loadId": 1602,
           "value": "23977239",
           "code": "DO",
           "desc": "Delivery Order Number"
+        },
+        {
+          "loadLevel": "SR",
+          "id": 2074,
+          "loadId": 1602,
+          "value": "THIS WORKS",
+          "code": "WH",
+          "desc": "Master Reference (Link) Number"
         }
       ],
       "shipmentStatuses": [],
       "serviceStatuses": [
         {
-          "identificationNumber": "302160000005",
+          "identificationNumber": "302170001265",
           "loadLevelType": "SG",
           "status": "FAILED",
           "description": "Credit availability could not be verified",
           "type": "AddCharges",
-          "lastCalledDate": "2017-02-18T05:42:24.292"
+          "lastCalledDate": "2017-02-20T09:45:07.883"
         },
         {
-          "identificationNumber": "302160000005",
+          "identificationNumber": "302170001265",
           "loadLevelType": "SG",
           "status": "FAILED",
           "description": "Total Credit Needed required",
           "type": "Credit",
-          "lastCalledDate": "2017-02-18T05:42:24.102"
+          "lastCalledDate": "2017-02-14T22:49:55.801"
         },
         {
-          "identificationNumber": "302160000005",
+          "identificationNumber": "302170001265",
+          "loadLevelType": "SG",
+          "status": "COMPLETED",
+          "type": "Distance",
+          "lastCalledDate": "2017-02-14T22:49:50.564"
+        },
+        {
+          "identificationNumber": "302170001265",
+          "loadLevelType": "SG",
+          "status": "FAILED",
+          "description": "Credit availability could not be verified",
+          "type": "AddCharges",
+          "lastCalledDate": "2017-02-20T09:45:04.848"
+        },
+        {
+          "identificationNumber": "302170001265",
+          "loadLevelType": "SG",
+          "status": "FAILED",
+          "description": "Credit availability could not be verified",
+          "type": "AddCharges",
+          "lastCalledDate": "2017-02-20T09:44:55.699"
+        },
+        {
+          "identificationNumber": "302170001265",
           "loadLevelType": "SG",
           "status": "FAILED",
           "type": "Rate",
-          "lastCalledDate": "2017-02-23T13:29:50.083"
+          "lastCalledDate": "2017-02-14T22:49:55.192"
         }
       ],
       "freightStatus": "PNDG",
-      "deliveryOption": "CURB",
+      "deliveryOption": "THRSH",
       "customer": {
         "name": "FACTORY DIRECT FURNITURE                          ",
         "address": {
@@ -189,9 +205,17 @@
       "doNotBill": true,
       "costDivision": "LSFM ",
       "businessUnit": "WERFM",
+      "customerServiceContact": {
+        "id": 4560,
+        "name": "Mike Albright",
+        "contactFunctionCodeId": "AJ",
+        "contactNumber": {
+          "number": "402-895-6640 x2338",
+          "communicationNumberTypeId": "WP"
+        }
+      },
       "sourceSystem": "Final Mile"
-    },
-    "segments": [
+    },    "segments": [
       {
         "id": 13,
         "identificationNumber": "303160000013",
