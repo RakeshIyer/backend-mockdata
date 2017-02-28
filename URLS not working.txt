@@ -1,0 +1,10 @@
+These are some of the shipment reference numbers we checked.Gettgin a 404
+
+http://stg1-finalmile.wernerds.net/api/milestones/findExceptions/302170001263
+http://stg1-finalmile.wernerds.net/api/milestones/findExceptions/302170001264
+http://stg1-finalmile.wernerds.net/api/milestones/findExceptions/302170001265
+
+
+
+
+
