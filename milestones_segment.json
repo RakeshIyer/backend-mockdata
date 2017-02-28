@@ -12,3 +12,27 @@
     "flag": false
   }
 ]
+/* 
+[
+  {
+    "milestoneOrderId": 1,
+    "milestone": "Contact Consignee",
+    "flag": false
+  },
+  {
+    "milestoneOrderId": 1,
+    "milestone": "Schedule Late Delivery",
+    "flag": false
+  },
+  {
+    "milestoneOrderId": 1,
+    "milestone": "Delivery Notification",
+    "flag": false
+  },
+  {
+    "milestoneOrderId": 1,
+    "milestone": "POD Notification",
+    "flag": false
+  }
+]
+*/
