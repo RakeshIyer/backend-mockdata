@@ -1,0 +1,14 @@
+[
+  {
+    "milestoneOrderId": 1,
+    "milestone": "Contact Consignee",
+    "triggerDt": "2017-01-01T06:06:00.000+0000",
+    "flag": true
+  },
+  {
+    "milestoneOrderId": 2,
+    "milestone": "Schedule Late Delivery",
+    "triggerDt": "2017-01-01T06:06:00.000+0000",
+    "flag": false
+  }
+]
