@@ -6,5 +6,11 @@ http://stg1-finalmile.wernerds.net/api/milestones/findExceptions/302170001265
 
 
 
-
+{
+  "imageId": 248089353,
+  "entryDate": "2017-02-28T14:02:49.437",
+  "imageType": "png",
+  "size": 43124,
+  "pageCount": 1
+}
 
