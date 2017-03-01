@@ -1,0 +1,109 @@
+{
+  "customerCharges": {
+    "name": "Soylent Inc.",
+    "totalAmount": 44.44,
+    "types": [
+      {
+        "id": "2",
+        "name": "Facilty",
+        "amount": 1100.11
+      },
+      {
+        "id": "3",
+        "name": "Other (Misc)",
+        "amount": 1100.11
+      },
+      {
+        "id": "1",
+        "name": "Line Haul",
+        "amount": 1100.11
+      }
+    ]
+  },
+  "carrierCharges": [
+    {
+      "name": "Acme",
+      "totalAmount": 44.44,
+      "types": [
+        {
+          "id": "1",
+          "name": "Line Haul",
+          "amount": 1100.11
+        },
+        {
+          "id": "2",
+          "name": "Facilty",
+          "amount": 1100.11
+        },
+        {
+          "id": "3",
+          "name": "Other (Misc)",
+          "amount": 1100.11
+        }
+      ]
+    },
+    {
+      "name": "Campaign Research for America Politico",
+      "totalAmount": 44.44,
+      "types": [
+        {
+          "id": "1",
+          "name": "Line Haul",
+          "amount": 1100.11
+        },
+        {
+          "id": "2",
+          "name": "Facilty",
+          "amount": 1100.11
+        },
+        {
+          "id": "3",
+          "name": "Other (Misc)",
+          "amount": 1100.11
+        }
+      ]
+    }
+  ],
+  "margin": 88,
+  "marginPercentage": 3.34,
+  "totalRevenue": 175,
+  "totalExpense": 181,
+  "requestedCharges": [
+    {
+      "requestedBy": "Bill",
+      "accessorial": {
+        "quantity": 2,
+        "description": "ADDSTR",
+        "agentFee": 33.33,
+        "customerCharge": 44.44,
+        "status": "PENDING",
+        "comments": "Comment here",
+        "doNotBill": false
+      }
+    },
+    {
+      "requestedBy": "Bill",
+      "accessorial": {
+        "quantity": 2,
+        "description": "ADDSTR",
+        "agentFee": 33.33,
+        "customerCharge": 44.44,
+        "status": "PENDING",
+        "comments": "Comment here",
+        "doNotBill": false
+      }
+    },
+    {
+      "requestedBy": "Bill",
+      "accessorial": {
+        "quantity": 2,
+        "description": "ADDSTR",
+        "agentFee": 33.33,
+        "customerCharge": 44.44,
+        "status": "PENDING",
+        "comments": "Comment here",
+        "doNotBill": false
+      }
+    }
+  ]
+}
