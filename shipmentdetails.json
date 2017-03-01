@@ -190,6 +190,364 @@
       },
       "sourceSystem": "Final Mile"
     },
-    "segments": []
+    "segments": [
+      {
+        "id": 1718,
+        "identificationNumber": "303170001718",
+        "orders": [
+          {
+            "loadLevel": "SG",
+            "id": 1634,
+            "orderNumber": "23977239",
+            "freights": [
+              {
+                "id": 1665,
+                "description": "Table",
+                "unitizedQuantity": {
+                  "quantity": 1,
+                  "quantityUom": "PCS"
+                },
+                "nonUnitizedQuantity": {},
+                "weight": {
+                  "weight": 20,
+                  "weightUOM": "L",
+                  "type": "G"
+                },
+                "dimensions": {
+                  "dimLength": 72,
+                  "dimWidth": 36,
+                  "dimHeight": 36,
+                  "dimLwhMeasurementUnitTypeId": "E"
+                },
+                "freightClass": "125"
+              }
+            ]
+          }
+        ],
+        "stops": [
+          {
+            "id": 3343,
+            "seqNumber": 2,
+            "location": {
+              "id": 2630,
+              "name": "American Building Supply",
+              "address": {
+                "address1": "Bldg 2",
+                "city": "Atlanta",
+                "state": "GA",
+                "postalCode": "30349",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2016-04-15",
+              "time": null
+            },
+            "actualArrivedDateTime": null,
+            "actualDepartedDateTime": null,
+            "contacts": []
+          },
+          {
+            "id": 3342,
+            "seqNumber": 1,
+            "location": {
+              "id": 3819,
+              "name": "TIG TRANSPORTATION INC",
+              "locationIdentifier": "BSGR9JE4",
+              "address": {
+                "address1": "PO BOX 447",
+                "address2": "",
+                "city": "CONLEY",
+                "state": "GA",
+                "postalCode": "30288",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2016-04-15",
+              "time": null
+            },
+            "actualArrivedDateTime": null,
+            "actualDepartedDateTime": null,
+            "contacts": []
+          }
+        ],
+        "comments": [],
+        "references": [
+          {
+            "loadLevel": "SR",
+            "id": 1389,
+            "loadId": 1305,
+            "value": "MONDAYMORNING1A",
+            "code": "WH",
+            "desc": "Master Reference (Link) Number"
+          },
+          {
+            "loadLevel": "SR",
+            "id": 1390,
+            "loadId": 1305,
+            "value": "23977239",
+            "code": "DO",
+            "desc": "Delivery Order Number"
+          }
+        ],
+        "shipmentStatuses": [],
+        "serviceStatuses": [
+          {
+            "identificationNumber": "303170001718",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "OBLT",
+            "lastCalledDate": "2017-02-24T11:01:55.918"
+          },
+          {
+            "identificationNumber": "303170001718",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "AddCharges",
+            "lastCalledDate": "2017-02-24T11:01:53.634"
+          },
+          {
+            "identificationNumber": "303170001718",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "Distance",
+            "lastCalledDate": "2017-02-24T10:46:31.709"
+          }
+        ],
+        "carrier": {
+          "carrierIdent": "100002130",
+          "scac": "FEPC",
+          "name": "FEPCO CONTAINER INC",
+          "email": "DISPATCH@FEPCOCONTAINER.COM",
+          "contactNumber": "8002456772",
+          "addressVo": {
+            "address1": "PO BOX 447",
+            "address2": "",
+            "city": "CONLEY",
+            "state": "GA",
+            "postalCode": "30288",
+            "country": "USA"
+          }
+        },
+        "freightStatus": "PNDG"
+      },
+      {
+        "id": 1719,
+        "identificationNumber": "303170001719",
+        "orders": [
+          {
+            "loadLevel": "SG",
+            "id": 1635,
+            "orderNumber": "23977239",
+            "freights": [
+              {
+                "id": 1666,
+                "description": "Table",
+                "unitizedQuantity": {
+                  "quantity": 1,
+                  "quantityUom": "PCS"
+                },
+                "nonUnitizedQuantity": {},
+                "weight": {
+                  "weight": 20,
+                  "weightUOM": "L",
+                  "type": "G"
+                },
+                "dimensions": {
+                  "dimLength": 72,
+                  "dimWidth": 36,
+                  "dimHeight": 36,
+                  "dimLwhMeasurementUnitTypeId": "E"
+                },
+                "freightClass": "125"
+              }
+            ]
+          }
+        ],
+        "stops": [
+          {
+            "id": 3345,
+            "seqNumber": 2,
+            "location": {
+              "id": 3819,
+              "name": "TIG TRANSPORTATION INC",
+              "locationIdentifier": "BSGR9JE4",
+              "address": {
+                "address1": "PO BOX 447",
+                "address2": "",
+                "city": "CONLEY",
+                "state": "GA",
+                "postalCode": "30288",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2016-12-23",
+              "time": null
+            },
+            "actualArrivedDateTime": null,
+            "actualDepartedDateTime": null,
+            "contacts": []
+          },
+          {
+            "id": 3344,
+            "seqNumber": 1,
+            "location": {
+              "id": 2629,
+              "name": "GGGS LLC.",
+              "locationIdentifier": "PKWRYKGK",
+              "address": {
+                "address1": "13441 Erskine St",
+                "city": "Omaha",
+                "state": "NE",
+                "postalCode": "68164",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2016-12-23",
+              "time": null
+            },
+            "actualArrivedDateTime": null,
+            "actualDepartedDateTime": null,
+            "contacts": []
+          }
+        ],
+        "comments": [],
+        "references": [
+          {
+            "loadLevel": "SG",
+            "id": 1089,
+            "loadId": 1719,
+            "value": "303170001718",
+            "code": "_0L",
+            "desc": "Referenced By"
+          },
+          {
+            "loadLevel": "SR",
+            "id": 1389,
+            "loadId": 1305,
+            "value": "MONDAYMORNING1A",
+            "code": "WH",
+            "desc": "Master Reference (Link) Number"
+          },
+          {
+            "loadLevel": "SR",
+            "id": 1390,
+            "loadId": 1305,
+            "value": "23977239",
+            "code": "DO",
+            "desc": "Delivery Order Number"
+          },
+          {
+            "loadLevel": "SG",
+            "id": 1090,
+            "loadId": 1719,
+            "value": "WernerFM",
+            "code": "_0L",
+            "desc": "Referenced By"
+          }
+        ],
+        "shipmentStatuses": [
+          {
+            "id": 1386,
+            "segmentNumber": "303170001719",
+            "location": {
+              "id": 3819,
+              "name": "TIG TRANSPORTATION INC",
+              "locationIdentifier": "BSGR9JE4",
+              "address": {
+                "address1": "PO BOX 447",
+                "address2": "",
+                "city": "CONLEY",
+                "state": "GA",
+                "postalCode": "30288",
+                "country": "USA"
+              }
+            },
+            "positionCityState": null,
+            "reasonCode": null,
+            "reasonDescription": null,
+            "statusCode": "AG",
+            "statusDescription": "Estimated Delivery",
+            "comments": "",
+            "eventDateTime": null,
+            "receivedDateTime": "2017-02-24T10:47:35.305"
+          }
+        ],
+        "serviceStatuses": [
+          {
+            "identificationNumber": "303170001719",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "Distance",
+            "lastCalledDate": "2017-02-24T10:46:33.325"
+          },
+          {
+            "identificationNumber": "303170001719",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "OBLT",
+            "lastCalledDate": "2017-02-24T10:47:39.261"
+          },
+          {
+            "identificationNumber": "303170001719",
+            "loadLevelType": "SG",
+            "status": "FAILED",
+            "description": "SYSTEM_EXCEPTION:Unexpected exception while persisting Charges in the Charges system.",
+            "type": "AddCharges",
+            "lastCalledDate": "2017-02-24T10:47:35.263"
+          },
+          {
+            "identificationNumber": "303170001719",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "TransitTime",
+            "lastCalledDate": "2017-02-24T10:46:32.038"
+          },
+          {
+            "identificationNumber": "303170001719",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "type": "Rate",
+            "lastCalledDate": "2017-02-24T10:46:34.456"
+          }
+        ],
+        "carrier": {
+          "carrierIdent": "100001043",
+          "scac": "DAFG",
+          "name": "DAYTON FREIGHT LINES INC",
+          "email": "MRUSSELL@DAYTONFREIGHT.COM",
+          "contactNumber": "8008605102",
+          "addressVo": {
+            "address1": "6450 POE AVE",
+            "address2": "STE 311",
+            "city": "DAYTON",
+            "state": "OH",
+            "postalCode": "45414",
+            "country": "USA"
+          }
+        },
+        "freightStatus": "PNDG"
+      }
+    ]
+  }
   }
 ]
