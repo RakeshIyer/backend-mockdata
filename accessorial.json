@@ -1,0 +1,368 @@
+{
+  "resultList": [
+    {
+      "index": "1",
+      "segmentNumber": "303170001813",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "John Wayne",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "4475 S Fulton Pkwy",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "987",
+        "code": "ADDSTR",
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 0,
+        "status": "DENIED",
+        "doNotBill": true,
+        "createdDate": "2017-03-02T14:57:47.823",
+        "createBy": "anonymousUser"
+      },
+      "disposition": {
+        "disposition": "DENIED"
+      },
+      "createdDate": "2017-03-02T14:57:47.823",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "7",
+      "segmentNumber": "303170001815",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "American Building Supply",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1010",
+        "code": "ADDSTR",
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 0,
+        "status": "APPROVED",
+        "doNotBill": true,
+        "createdDate": "2017-03-03T10:08:15.329",
+        "createBy": "Lyle Johnston"
+      },
+      "disposition": {
+        "disposition": "APPROVED"
+      },
+      "createdDate": "2017-03-03T10:08:15.329",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "4",
+      "segmentNumber": "303170001827",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "American Building Supply",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1030",
+        "code": "ADDSTR",
+        "quantity": 1,
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 20,
+        "status": "DENIED",
+        "doNotBill": false,
+        "createdDate": "2017-03-06T15:03:35.921",
+        "createBy": "FNLML"
+      },
+      "disposition": {
+        "disposition": "DENIED"
+      },
+      "createdDate": "2017-03-06T15:03:35.921",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "0",
+      "segmentNumber": "303170001813",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "John Wayne",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "4475 S Fulton Pkwy",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1031",
+        "code": "ADDSTR",
+        "quantity": 1,
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 20,
+        "status": "DENIED",
+        "doNotBill": false,
+        "createdDate": "2017-03-06T15:03:47.24",
+        "createBy": "Jeff Briggs"
+      },
+      "disposition": {
+        "disposition": "DENIED"
+      },
+      "createdDate": "2017-03-06T15:03:47.24",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "3",
+      "segmentNumber": "303170001827",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "American Building Supply",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1032",
+        "code": "ADDSTR",
+        "quantity": 1,
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 20,
+        "status": "PENDING",
+        "doNotBill": false,
+        "createdDate": "2017-03-06T15:04:23.052",
+        "createBy": "FNLML"
+      },
+      "disposition": {
+        "disposition": "PENDING"
+      },
+      "createdDate": "2017-03-06T15:04:23.052",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "6",
+      "segmentNumber": "303170001825",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "American Building Supply",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1006",
+        "code": "ADDSTR",
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 25,
+        "status": "APPROVED",
+        "doNotBill": false,
+        "createdDate": "2017-03-03T08:47:33.11",
+        "createBy": "Rajneesh Bhatti"
+      },
+      "disposition": {
+        "disposition": "APPROVED"
+      },
+      "createdDate": "2017-03-03T08:47:33.11",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "5",
+      "segmentNumber": "303170001821",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "American Building Supply",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1004",
+        "code": "ADDSTR",
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 25,
+        "status": "APPROVED",
+        "doNotBill": false,
+        "createdDate": "2017-03-03T08:38:08.359",
+        "createBy": "Rajneesh Bhatti"
+      },
+      "disposition": {
+        "disposition": "APPROVED"
+      },
+      "createdDate": "2017-03-03T08:38:08.359",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    },
+    {
+      "index": "2",
+      "segmentNumber": "303170001827",
+      "agent": {
+        "ident": "100012949",
+        "name": "BELTMANN GROUP INCORPORATED",
+        "address": {
+          "address1": "4897 Lewis Rd. Unit C",
+          "city": "Stone Mountain",
+          "state": "GA",
+          "postalCode": "30083",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "American Building Supply",
+        "telephone": "",
+        "email": "",
+        "address": {
+          "address1": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "postalCode": "30349",
+          "country": "USA"
+        }
+      },
+      "accessorial": {
+        "id": "1008",
+        "code": "ADDSTR",
+        "description": "ADDSTR",
+        "agentFee": 15,
+        "customerCharge": 25,
+        "status": "APPROVED",
+        "comments": "tsting",
+        "doNotBill": false,
+        "createdDate": "2017-03-03T09:45:14.917",
+        "createBy": "FNLML"
+      },
+      "disposition": {
+        "disposition": "APPROVED"
+      },
+      "createdDate": "2017-03-03T09:45:14.917",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          "
+      }
+    }
+  ]
+}
