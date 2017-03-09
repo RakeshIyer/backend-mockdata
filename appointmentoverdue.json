@@ -1,0 +1,191 @@
+{
+  "resultList": [
+    {
+      "segmentId": 1848,
+      "segmentNumber": "303170001848",
+      "agent": {
+        "ident": "100005912",
+        "name": "HAWKEYE MOVING SERVICES INC.",
+        "telephone": "319-688-5440x241",
+        "cell": "319-688-5440x241",
+        "email": "heudepohl.m@hawkeyemoving.com",
+        "address": {
+          "address1": "2820 S RIVERSIDE DR",
+          "address2": "",
+          "city": "IOWA CITY",
+          "state": "IA",
+          "postalCode": "52246",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "JANE SMITH",
+        "email": "MISSAM@YAHOO.COM"
+      },
+      "alert": {
+        "alertCount": 12,
+        "lastAlertedDt": "2017-03-07T17:41:57.931",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 44,
+      "deliveredToDockDt": "2017-03-07T08:41:00"
+    },
+    {
+      "segmentId": 1882,
+      "segmentNumber": "303170001882",
+      "agent": {
+        "ident": "100005912",
+        "name": "HAWKEYE MOVING SERVICES INC.",
+        "telephone": "319-688-5440x241",
+        "cell": "319-688-5440x241",
+        "email": "heudepohl.m@hawkeyemoving.com",
+        "address": {
+          "address1": "2820 S RIVERSIDE DR",
+          "address2": "",
+          "city": "IOWA CITY",
+          "state": "IA",
+          "postalCode": "52246",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "MRS BUYER",
+        "email": "BUYER@GMAIL.COM"
+      },
+      "alert": {
+        "alertCount": 7,
+        "lastAlertedDt": "2017-03-08T17:23:57.409",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 46,
+      "deliveredToDockDt": "2017-03-07T07:15:00"
+    },
+    {
+      "segmentId": 1880,
+      "segmentNumber": "303170001880",
+      "agent": {
+        "ident": "100005912",
+        "name": "HAWKEYE MOVING SERVICES INC.",
+        "telephone": "319-688-5440x241",
+        "cell": "319-688-5440x241",
+        "email": "heudepohl.m@hawkeyemoving.com",
+        "address": {
+          "address1": "2820 S RIVERSIDE DR",
+          "address2": "",
+          "city": "IOWA CITY",
+          "state": "IA",
+          "postalCode": "52246",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "SUE CONSIGNEE",
+        "email": "HCONSIGNEE@YAHOO.COM"
+      },
+      "alert": {
+        "alertCount": 12,
+        "lastAlertedDt": "2017-03-08T17:23:45.339",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 46,
+      "deliveredToDockDt": "2017-03-07T07:00:00"
+    },
+    {
+      "segmentId": 1884,
+      "segmentNumber": "303170001884",
+      "agent": {
+        "ident": "100005912",
+        "name": "HAWKEYE MOVING SERVICES INC.",
+        "telephone": "319-688-5440x241",
+        "cell": "319-688-5440x241",
+        "email": "heudepohl.m@hawkeyemoving.com",
+        "address": {
+          "address1": "2820 S RIVERSIDE DR",
+          "address2": "",
+          "city": "IOWA CITY",
+          "state": "IA",
+          "postalCode": "52246",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "JILL CONSUMER",
+        "telephone": "7214560987",
+        "email": "JCONSUMER@YAHOO.COM"
+      },
+      "alert": {
+        "alertCount": 4,
+        "lastAlertedDt": "2017-03-08T19:50:54.33",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 46,
+      "deliveredToDockDt": "2017-03-07T07:00:00"
+    },
+    {
+      "segmentId": 1831,
+      "segmentNumber": "303170001831",
+      "agent": {
+        "ident": "100012944",
+        "name": "AADVANTAGE RELOCATION, INC.",
+        "telephone": "850-420-9010",
+        "cell": "850-420-9010",
+        "email": "cqueen@teammove.com",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "Mr. John",
+        "email": "john@aol.com"
+      },
+      "alert": {
+        "alertCount": 21,
+        "lastAlertedDt": "2017-03-06T14:59:39.069",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 189,
+      "deliveredToDockDt": "2017-03-01T08:00:00"
+    },
+    {
+      "segmentId": 1839,
+      "segmentNumber": "303170001839",
+      "agent": {
+        "ident": "100005912",
+        "name": "HAWKEYE MOVING SERVICES INC.",
+        "telephone": "319-688-5440x241",
+        "cell": "319-688-5440x241",
+        "email": "heudepohl.m@hawkeyemoving.com",
+        "address": {
+          "address1": "2820 S RIVERSIDE DR",
+          "address2": "",
+          "city": "IOWA CITY",
+          "state": "IA",
+          "postalCode": "52246",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "JOE CONSUMER",
+        "telephone": "7129998888",
+        "email": "JOE@YAHOO.COM"
+      },
+      "alert": {
+        "alertCount": 7,
+        "lastAlertedDt": "2017-03-07T17:42:46.834",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 189,
+      "deliveredToDockDt": "2017-03-01T08:00:00"
+    }
+  ]
+}
