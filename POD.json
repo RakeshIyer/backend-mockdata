@@ -1,0 +1,205 @@
+{
+  "resultList": [
+    {
+      "segmentId": 1927,
+      "segmentNumber": "303170001927",
+      "agent": {
+        "ident": "100012944",
+        "name": "AADVANTAGE RELOCATION, INC.",
+        "telephone": "850-420-9010",
+        "cell": "850-420-9010",
+        "email": "cqueen@teammove.com",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "Primary Contact",
+        "telephone": "4024445555",
+        "email": "pc@email.com"
+      },
+      "alert": {
+        "alertCount": 0
+      },
+      "overdueHours": 37,
+      "deliveredToConsigneeDt": "2017-03-13T13:15:00"
+    },
+    {
+      "segmentId": 1894,
+      "segmentNumber": "303170001894",
+      "agent": {
+        "ident": "100012944",
+        "name": "AADVANTAGE RELOCATION, INC.",
+        "telephone": "850-420-9010",
+        "cell": "850-420-9010",
+        "email": "cqueen@teammove.com",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "Manager Joe",
+        "telephone": "8002223333",
+        "email": "joe@7eleven.com"
+      },
+      "alert": {
+        "alertCount": 0
+      },
+      "overdueHours": 111,
+      "deliveredToConsigneeDt": "2017-03-10T11:00:00"
+    },
+    {
+      "segmentId": 1890,
+      "segmentNumber": "303170001890",
+      "agent": {
+        "ident": "100012944",
+        "name": "AADVANTAGE RELOCATION, INC.",
+        "telephone": "850-420-9010",
+        "cell": "850-420-9010",
+        "email": "cqueen@teammove.com",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "Manager Joe",
+        "telephone": "8005553333",
+        "email": "joe@7eleven.com"
+      },
+      "alert": {
+        "alertCount": 0
+      },
+      "overdueHours": 117,
+      "deliveredToConsigneeDt": "2017-03-10T05:42:00"
+    },
+    {
+      "segmentId": 1850,
+      "segmentNumber": "303170001850",
+      "agent": {
+        "ident": "100012944",
+        "name": "AADVANTAGE RELOCATION, INC.",
+        "telephone": "850-420-9010",
+        "cell": "850-420-9010",
+        "email": "cqueen@teammove.com",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "Mrs. Customer",
+        "telephone": "1234569887",
+        "email": "john@aol.com"
+      },
+      "alert": {
+        "alertCount": 7,
+        "lastAlertedDt": "2017-03-11T03:29:36.138",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 188,
+      "deliveredToConsigneeDt": "2017-03-07T06:30:00"
+    },
+    {
+      "segmentId": 1831,
+      "segmentNumber": "303170001831",
+      "agent": {
+        "ident": "100012944",
+        "name": "AADVANTAGE RELOCATION, INC.",
+        "telephone": "850-420-9010",
+        "cell": "850-420-9010",
+        "email": "cqueen@teammove.com",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        }
+      },
+      "consignee": {
+        "name": "Mrs. Customer",
+        "email": "john@aol.com"
+      },
+      "alert": {
+        "alertCount": 10,
+        "lastAlertedDt": "2017-03-11T03:29:19.555",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 305,
+      "deliveredToConsigneeDt": "2017-03-02T09:15:00"
+    },
+    {
+      "segmentId": 1867,
+      "segmentNumber": "303170001867",
+      "agent": {
+        "ident": "100012948",
+        "name": "BEKINS A-1 MOVERS INC",
+        "telephone": "602-443-2850",
+        "cell": "602-443-2850",
+        "email": "dwatson@bekinsa1.com",
+        "address": {
+          "address1": "3901 W BUCKEYE RD",
+          "address2": "",
+          "city": "PHOENIX",
+          "state": "AZ",
+          "postalCode": "85009",
+          "country": "USA"
+        }
+      },
+      "consignee": {},
+      "alert": {
+        "alertCount": 11,
+        "lastAlertedDt": "2017-03-11T03:29:27.615",
+        "lastAlertMethodCode": "SMS",
+        "lastAlertMethodDesc": "Short message service/text"
+      },
+      "overdueHours": 305,
+      "deliveredToConsigneeDt": "2017-03-02T09:15:00"
+    },
+    {
+      "segmentId": 1864,
+      "segmentNumber": "303170001864",
+      "agent": {
+        "ident": "100012948",
+        "name": "BEKINS A-1 MOVERS INC",
+        "telephone": "602-443-2850",
+        "cell": "602-443-2850",
+        "email": "dwatson@bekinsa1.com",
+        "address": {
+          "address1": "3901 W BUCKEYE RD",
+          "address2": "",
+          "city": "PHOENIX",
+          "state": "AZ",
+          "postalCode": "85009",
+          "country": "USA"
+        }
+      },
+      "consignee": {},
+      "alert": {
+        "alertCount": 10,
+        "lastAlertedDt": "2017-03-11T03:29:34.871",
+        "lastAlertMethodCode": "EMAIL",
+        "lastAlertMethodDesc": "Email notification"
+      },
+      "overdueHours": 305,
+      "deliveredToConsigneeDt": "2017-03-02T09:15:00"
+    }
+  ]
+}
