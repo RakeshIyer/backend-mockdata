@@ -1,0 +1,154 @@
+{
+	"variables": [],
+	"info": {
+		"name": "WFM-CSM",
+		"_postman_id": "02accf1f-f3f4-422a-ad81-20e1c352a4ee",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "milestones shipments",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/s/findExceptions/302170001023",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Shipment Details",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/shipment/all/details/302170001502",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "monetarymock -shipment",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/shipment/302170001325/monetary",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "monetarymock -segment",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/segment/303170001514/monetary",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "shipment images",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/shipment/302160000004/images",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "get image",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/image/248089353",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "milestones-segment",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/milestones/findExceptions/303170001600",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Segemnt Details",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/segment/details/303170001413",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "SpotQuote All",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/spotQuote/all",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "getltlcarriers in spotquote",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/spotQuote/ltl/match/test",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "accessorial",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/spotQuote/agent/destStopId/3024/radius/400/false",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "appointmentoverdue",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/overdue/deliveryAppointment",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "ltloverdue",
+			"request": {
+				"url": "http://stg1-finalmile.wernerds.net/finalmile/api/overdue/ltlSegments",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
