@@ -1,0 +1,234 @@
+{
+  "resultList": [
+    {
+      "shipmentId": 1536,
+      "shipmentNumber": "302170001539",
+      "spotQuoteReason": "Agent",
+      "customerRate": "to_do_null",
+      "schedulePickupDt": "2017-03-07",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "telephone": ""
+      },
+      "origin": {
+        "ident": 3051,
+        "address": {
+          "street": "121 S Mayo Trl",
+          "city": "Pikeville",
+          "state": "KY",
+          "zip": "41501"
+        },
+        "contact": {}
+      },
+      "destination": {
+        "ident": 3052,
+        "address": {
+          "street": "542 Craven St",
+          "city": "Bronx",
+          "state": "NY",
+          "zip": "10474"
+        },
+        "contact": {}
+      },
+      "productDetails": [
+        {
+          "productId": 1931,
+          "length": 22,
+          "width": 22,
+          "height": 22,
+          "lwhUom": "N",
+          "quantity": 22,
+          "quantityUom": "PCS",
+          "weight": 22,
+          "weightUom": "L",
+          "freightClass": "",
+          "description": "jjjj"
+        }
+      ]
+    },
+    {
+      "shipmentId": 1601,
+      "shipmentNumber": "302170001604",
+      "spotQuoteReason": "Agent",
+      "customerRate": "to_do_null",
+      "schedulePickupDt": "2016-04-11",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "telephone": ""
+      },
+      "origin": {
+        "ident": 3183,
+        "address": {
+          "street": "12104 Stonegate dr",
+          "city": "Omaha",
+          "state": "NE",
+          "zip": "68164"
+        },
+        "contact": {}
+      },
+      "destination": {
+        "ident": 3184,
+        "address": {
+          "street": "3815 W Washington St",
+          "city": "Phoenix",
+          "state": "AZ",
+          "zip": "85009"
+        },
+        "contact": {}
+      },
+      "productDetails": [
+        {
+          "productId": 2004,
+          "length": 30,
+          "width": 70,
+          "height": 28,
+          "lwhUom": "N",
+          "quantity": 1,
+          "quantityUom": "PCS",
+          "weight": 200,
+          "weightUom": "L",
+          "freightClass": "125",
+          "description": "1 NIB office desk"
+        }
+      ]
+    },
+    {
+      "shipmentId": 2533,
+      "shipmentNumber": "302170002536",
+      "spotQuoteReason": "LTL",
+      "customerRate": "to_do_null",
+      "schedulePickupDt": "2017-03-17",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "telephone": ""
+      },
+      "origin": {
+        "ident": 5067,
+        "address": {
+          "street": "3 South Hilltop Lane",
+          "city": "Healy",
+          "state": "AK",
+          "zip": "99743"
+        },
+        "contact": {}
+      },
+      "destination": {
+        "ident": 5068,
+        "address": {
+          "street": "187 Glenn Hwy",
+          "city": "Glennallen",
+          "state": "AK",
+          "zip": "99588"
+        },
+        "contact": {}
+      },
+      "productDetails": [
+        {
+          "productId": 2947,
+          "length": 42,
+          "width": 81,
+          "height": 25.5,
+          "lwhUom": "N",
+          "quantity": 1,
+          "quantityUom": "BOX",
+          "weight": 259,
+          "weightUom": "L",
+          "freightClass": "150",
+          "description": "Fine Home Limited Bonded Leather Sofa"
+        }
+      ]
+    },
+    {
+      "shipmentId": 2535,
+      "shipmentNumber": "302170002538",
+      "spotQuoteReason": "LTL",
+      "customerRate": "to_do_null",
+      "schedulePickupDt": "2016-12-23",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "telephone": ""
+      },
+      "origin": {
+        "ident": 5071,
+        "address": {
+          "street": "13441 Erskine St",
+          "city": "Omaha",
+          "state": "NE",
+          "zip": "68164"
+        },
+        "contact": {}
+      },
+      "destination": {
+        "ident": 5072,
+        "address": {
+          "street": "Bldg 2",
+          "city": "Atlanta",
+          "state": "GA",
+          "zip": "30349"
+        },
+        "contact": {}
+      },
+      "productDetails": [
+        {
+          "productId": 2949,
+          "length": 72,
+          "width": 36,
+          "height": 36,
+          "lwhUom": "E",
+          "quantity": 1,
+          "quantityUom": "PCS",
+          "weight": 20,
+          "weightUom": "L",
+          "freightClass": "125",
+          "description": "Table"
+        }
+      ]
+    },
+    {
+      "shipmentId": 1535,
+      "shipmentNumber": "302170001538",
+      "spotQuoteReason": "Agent",
+      "customerRate": "to_do_null",
+      "schedulePickupDt": "2017-03-07",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "telephone": ""
+      },
+      "origin": {
+        "ident": 3049,
+        "address": {
+          "street": "121 S Mayo Trl",
+          "city": "Pikeville",
+          "state": "KY",
+          "zip": "41501"
+        },
+        "contact": {}
+      },
+      "destination": {
+        "ident": 3050,
+        "address": {
+          "street": "542 Craven St",
+          "city": "Bronx",
+          "state": "NY",
+          "zip": "10474"
+        },
+        "contact": {}
+      },
+      "productDetails": [
+        {
+          "productId": 1930,
+          "length": 22,
+          "width": 22,
+          "height": 22,
+          "lwhUom": "N",
+          "quantity": 22,
+          "quantityUom": "PCS",
+          "weight": 22,
+          "weightUom": "L",
+          "freightClass": "",
+          "description": "jjjj"
+        }
+      ]
+    }
+  ]
+}
