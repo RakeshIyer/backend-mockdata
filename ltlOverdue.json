@@ -1,76 +1,8 @@
 {
   "resultList": [
     {
-      "segmentId": 1806,
-      "segmentRefNumber": "303170001806",
-      "carrier": {
-        "ident": "100001043",
-        "name": "DAYTON FREIGHT LINES INC",
-        "address": {
-          "address1": "6450 POE AVE",
-          "address2": "STE 311",
-          "city": "DAYTON",
-          "state": "OH",
-          "postalCode": "45414",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "8008605102",
-          "email": "MRUSSELL@DAYTONFREIGHT.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3519,
-        "party": {
-          "ident": "L8N5DMDC",
-          "name": "Safeway Test Center",
-          "address": {
-            "address1": "6511 Golden Gate Dr",
-            "city": "Dublin",
-            "state": "CA",
-            "postalCode": "94568",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-02T00:00:00"
-      },
-      "destination": {
-        "stopId": 3520,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-07T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1840,
-      "segmentRefNumber": "303170001840",
+      "segmentId": 7976,
+      "segmentRefNumber": "303170007976",
       "carrier": {
         "ident": "100010917",
         "name": "ABF FREIGHT SYSTEM INC",
@@ -83,8 +15,7 @@
           "country": "USA"
         },
         "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
+          "telephone": "479-785-6000"
         }
       },
       "customer": {
@@ -102,694 +33,7 @@
         }
       },
       "origin": {
-        "stopId": 3587,
-        "party": {
-          "ident": "FKFK9FVK",
-          "name": "Donelly Custom Manufacturing",
-          "address": {
-            "address1": "105 Donovan Dr",
-            "address2": "",
-            "city": "Alexandria",
-            "state": "MN",
-            "postalCode": "56308",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-06T00:00:00"
-      },
-      "destination": {
-        "stopId": 3589,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-08T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1842,
-      "segmentRefNumber": "303170001842",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3590,
-        "party": {
-          "ident": "C4KC2HRY",
-          "name": "Samsung Thd. FL",
-          "address": {
-            "address1": "12400 Presidents Ct",
-            "address2": "",
-            "city": "Jacksonville",
-            "state": "FL",
-            "postalCode": "32220",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-06T00:00:00"
-      },
-      "destination": {
-        "stopId": 3591,
-        "party": {
-          "ident": "YN47RMHG",
-          "name": "HOT SHOT DELIVERIES INC",
-          "address": {
-            "address1": "2030 Delaware Ave.",
-            "city": "Des Moines",
-            "state": "IA",
-            "postalCode": "50317",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-09T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1847,
-      "segmentRefNumber": "303170001847",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3600,
-        "party": {
-          "ident": "C4KC2HRY",
-          "name": "Samsung Thd. FL",
-          "address": {
-            "address1": "12400 Presidents Ct",
-            "address2": "",
-            "city": "Jacksonville",
-            "state": "FL",
-            "postalCode": "32220",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-05T18:00:00"
-      },
-      "destination": {
-        "stopId": 3601,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-09T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1877,
-      "segmentRefNumber": "303170001877",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3660,
-        "party": {
-          "ident": "C4KC2HRY",
-          "name": "Samsung Thd. FL",
-          "address": {
-            "address1": "12400 Presidents Ct",
-            "address2": "",
-            "city": "Jacksonville",
-            "state": "FL",
-            "postalCode": "32220",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-05T00:00:00"
-      },
-      "destination": {
-        "stopId": 3661,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-09T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1879,
-      "segmentRefNumber": "303170001879",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3664,
-        "party": {
-          "ident": "C6VE2PKJ",
-          "name": "Sharp Manufacturing",
-          "address": {
-            "address1": "4050 S Mendenhall Rd",
-            "address2": "",
-            "city": "Memphis",
-            "state": "TN",
-            "postalCode": "38115",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-03T00:00:00"
-      },
-      "destination": {
-        "stopId": 3665,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-07T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1881,
-      "segmentRefNumber": "303170001881",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3668,
-        "party": {
-          "ident": "JYUVNKH4",
-          "name": "Peterson Manufacturing",
-          "address": {
-            "address1": "4200 E 135th St",
-            "address2": "",
-            "city": "Grandview",
-            "state": "MO",
-            "postalCode": "64030",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-03T00:00:00"
-      },
-      "destination": {
-        "stopId": 3669,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-06T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1883,
-      "segmentRefNumber": "303170001883",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3673,
-        "party": {
-          "ident": "48XURSNB",
-          "name": "Sams Furniture",
-          "address": {
-            "address1": "1010 S 48th St",
-            "address2": "",
-            "city": "Springdale",
-            "state": "AR",
-            "postalCode": "72762",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-03T00:00:00"
-      },
-      "destination": {
-        "stopId": 3674,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-07T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1885,
-      "segmentRefNumber": "303170001886",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3676,
-        "party": {
-          "ident": "TBM2GKTW",
-          "name": "Slawson Manufacturing",
-          "address": {
-            "address1": "99 Planer Mill Rd",
-            "address2": "",
-            "city": "Louisville",
-            "state": "AL",
-            "postalCode": "36048",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-03T00:00:00"
-      },
-      "destination": {
-        "stopId": 3678,
-        "party": {
-          "ident": "YHCHY6G2",
-          "name": "HAWKEYE MOVING SERVICES INC.",
-          "address": {
-            "address1": "2820 S RIVERSIDE DR",
-            "address2": "",
-            "city": "IOWA CITY",
-            "state": "IA",
-            "postalCode": "52246",
-            "country": "USA"
-          },
-          "contact": {}
-        }
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1887,
-      "segmentRefNumber": "303170001887",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3680,
-        "party": {
-          "ident": "9P6LJLC8",
-          "name": "Tensator Inc.",
-          "address": {
-            "address1": "260 Spur Dr S",
-            "address2": "",
-            "city": "Bay Shore",
-            "state": "NY",
-            "postalCode": "11706",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-06T00:00:00"
-      },
-      "destination": {
-        "stopId": 3681,
-        "party": {
-          "ident": "2JT8Y6MN",
-          "name": "ARNOFF MOVING AND STORAGE OF ALBANY  INC",
-          "address": {
-            "address1": "7 TIVOLI ST",
-            "address2": "",
-            "city": "ALBANY",
-            "state": "NY",
-            "postalCode": "12207",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-07T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1891,
-      "segmentRefNumber": "303170001891",
-      "carrier": {
-        "ident": "100010917",
-        "name": "ABF FREIGHT SYSTEM INC",
-        "address": {
-          "address1": "PO BOX 10048",
-          "address2": "",
-          "city": "FORT SMITH",
-          "state": "AR",
-          "postalCode": "72917",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3688,
-        "party": {
-          "ident": "Q4F9NLDD",
-          "name": "Samsung-AM Distr.",
-          "address": {
-            "address1": "240 Dividend Dr",
-            "address2": "",
-            "city": "Coppell",
-            "state": "TX",
-            "postalCode": "75019",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-06T00:00:00"
-      },
-      "destination": {
-        "stopId": 3689,
-        "party": {
-          "ident": "N6DLNEJ6",
-          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
-          "address": {
-            "address1": "1201 Barnsesville Hwy. ",
-            "city": "Thomaston",
-            "state": "GA",
-            "postalCode": "30286",
-            "country": "USA"
-          },
-          "contact": {}
-        },
-        "scheduleDt": "2017-03-08T17:00:00"
-      },
-      "comments": ""
-    },
-    {
-      "segmentId": 1820,
-      "segmentRefNumber": "303170001820",
-      "carrier": {
-        "ident": "100001043",
-        "name": "DAYTON FREIGHT LINES INC",
-        "address": {
-          "address1": "6450 POE AVE",
-          "address2": "STE 311",
-          "city": "DAYTON",
-          "state": "OH",
-          "postalCode": "45414",
-          "country": "USA"
-        },
-        "contact": {
-          "telephone": "8008605102",
-          "email": "MRUSSELL@DAYTONFREIGHT.COM"
-        }
-      },
-      "customer": {
-        "ident": "12011   ",
-        "name": "FACTORY DIRECT FURNITURE                          ",
-        "address": {
-          "address1": "301 Broad St                                           ",
-          "address2": "                                                       ",
-          "address3": "                                                       ",
-          "address4": "                                                       ",
-          "city": "KINGSPORT                               ",
-          "state": "TN ",
-          "postalCode": "37660      ",
-          "country": "USA"
-        }
-      },
-      "origin": {
-        "stopId": 3546,
+        "stopId": 15858,
         "party": {
           "ident": "PKWRYKGK",
           "name": "GGGS LLC.",
@@ -805,26 +49,26 @@
         "scheduleDt": "2016-12-23T00:00:00"
       },
       "destination": {
-        "stopId": 3547,
+        "stopId": 15859,
         "party": {
-          "ident": "DR4U77S5",
-          "name": "BELTMANN GROUP INCORPORATED",
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
           "address": {
-            "address1": "4897 Lewis Rd. Unit C",
-            "city": "Stone Mountain",
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
             "state": "GA",
-            "postalCode": "30083",
+            "postalCode": "30286",
             "country": "USA"
           },
           "contact": {}
         },
-        "scheduleDt": "2016-12-30T17:00:00"
+        "scheduleDt": "2016-12-28T17:00:00"
       },
       "comments": ""
     },
     {
-      "segmentId": 1861,
-      "segmentRefNumber": "303170001861",
+      "segmentId": 7962,
+      "segmentRefNumber": "303170007962",
       "carrier": {
         "ident": "100010917",
         "name": "ABF FREIGHT SYSTEM INC",
@@ -837,8 +81,7 @@
           "country": "USA"
         },
         "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
+          "telephone": "479-785-6000"
         }
       },
       "customer": {
@@ -856,7 +99,7 @@
         }
       },
       "origin": {
-        "stopId": 3628,
+        "stopId": 15830,
         "party": {
           "ident": "PKWRYKGK",
           "name": "GGGS LLC.",
@@ -872,7 +115,7 @@
         "scheduleDt": "2016-12-23T00:00:00"
       },
       "destination": {
-        "stopId": 3629,
+        "stopId": 15831,
         "party": {
           "ident": "N6DLNEJ6",
           "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
@@ -884,13 +127,14 @@
             "country": "USA"
           },
           "contact": {}
-        }
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
       },
       "comments": ""
     },
     {
-      "segmentId": 1870,
-      "segmentRefNumber": "303170001870",
+      "segmentId": 7967,
+      "segmentRefNumber": "303170007967",
       "carrier": {
         "ident": "100010917",
         "name": "ABF FREIGHT SYSTEM INC",
@@ -903,8 +147,7 @@
           "country": "USA"
         },
         "contact": {
-          "telephone": "4797858833",
-          "email": "DONNYDAVIS@FREIGHT.ABF.COM"
+          "telephone": "479-785-6000"
         }
       },
       "customer": {
@@ -922,12 +165,12 @@
         }
       },
       "origin": {
-        "stopId": 3644,
+        "stopId": 15840,
         "party": {
-          "ident": "5FMEG7A6",
-          "name": "Rajneesh WareHouse",
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
           "address": {
-            "address1": "12104 Stonegate dr",
+            "address1": "13441 Erskine St",
             "city": "Omaha",
             "state": "NE",
             "postalCode": "68164",
@@ -935,23 +178,485 @@
           },
           "contact": {}
         },
-        "scheduleDt": "2016-04-11T00:00:00"
+        "scheduleDt": "2016-12-23T00:00:00"
       },
       "destination": {
-        "stopId": 3646,
+        "stopId": 15841,
         "party": {
-          "ident": "AVK4XBVC",
-          "name": "BEKINS A-1 MOVERS INC",
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
           "address": {
-            "address1": "3901 W BUCKEYE RD",
-            "address2": "",
-            "city": "PHOENIX",
-            "state": "AZ",
-            "postalCode": "85009",
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
             "country": "USA"
           },
           "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7972,
+      "segmentRefNumber": "303170007972",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
         }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15850,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15851,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7970,
+      "segmentRefNumber": "303170007970",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
+        }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15846,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15847,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7964,
+      "segmentRefNumber": "303170007964",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
+        }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15834,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15835,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7978,
+      "segmentRefNumber": "303170007978",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
+        }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15862,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15863,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7980,
+      "segmentRefNumber": "303170007980",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
+        }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15866,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15867,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7960,
+      "segmentRefNumber": "303170007960",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
+        }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15826,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15827,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
+      },
+      "comments": ""
+    },
+    {
+      "segmentId": 7974,
+      "segmentRefNumber": "303170007974",
+      "carrier": {
+        "ident": "100010917",
+        "name": "ABF FREIGHT SYSTEM INC",
+        "address": {
+          "address1": "PO BOX 10048",
+          "address2": "",
+          "city": "FORT SMITH",
+          "state": "AR",
+          "postalCode": "72917",
+          "country": "USA"
+        },
+        "contact": {
+          "telephone": "479-785-6000"
+        }
+      },
+      "customer": {
+        "ident": "12011   ",
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        }
+      },
+      "origin": {
+        "stopId": 15854,
+        "party": {
+          "ident": "PKWRYKGK",
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-23T00:00:00"
+      },
+      "destination": {
+        "stopId": 15855,
+        "party": {
+          "ident": "N6DLNEJ6",
+          "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "scheduleDt": "2016-12-28T17:00:00"
       },
       "comments": ""
     }
