@@ -1,0 +1,39 @@
+<settings>
+	<!-- Location of Maven's local cache -->
+	<servers>
+		<server>
+			<id>internal</id>
+            <username>riyer</username>
+            <password>Rock@1992</password>
+		</server>
+		<server>
+			<id>snapshots</id>
+           <username>riyer</username>
+            <password>Rock@1992</password>
+		</server>
+		<server>
+			<id>werner-releases-repository</id>
+            <username>riyer</username>
+            <password>Rock@1992</password>
+		</server>
+		<server>
+			<id>werner-snapshots-repository</id>
+           <username>riyer</username>
+            <password>Rock@1992</password>
+		</server>
+	</servers>
+    <mirrors>
+        <mirror>
+            <id>werner-releases-repository</id>
+            <name>Werner Internal Repository</name>
+            <url>http://repo.wernerds.net:8080/archiva/repository/internal/</url>
+            <mirrorOf>*,!snapshots</mirrorOf>
+        </mirror>
+        <mirror>
+            <id>werner-snapshots-repository</id>
+            <name>Werner Snapshots Repository</name>
+            <url>http://repo.wernerds.net:8080/archiva/repository/snapshots/</url>
+            <mirrorOf>snapshots</mirrorOf>
+        </mirror>
+    </mirrors>
+</settings>
