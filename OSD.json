@@ -1,0 +1,1579 @@
+{
+  "resultList": [
+    {
+      "segmentId": 3443,
+      "segmentRefNumber": "303170003443",
+      "returnSegmentNumber": "303170003445",
+      "shipperReferenceNumber": "This works",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012949",
+          "name": "BELTMANN GROUP INCORPORATED",
+          "telephone": "973-424-1280x27",
+          "email": "lisa.thompson@beltmann.com",
+          "address": {
+            "address1": "4897 Lewis Rd. Unit C",
+            "city": "Stone Mountain",
+            "state": "GA",
+            "postalCode": "30083",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100001043",
+          "name": "DAYTON FREIGHT LINES INC",
+          "address": {
+            "address1": "6450 POE AVE",
+            "address2": "STE 311",
+            "city": "DAYTON",
+            "state": "OH",
+            "postalCode": "45414",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-17T11:46:48.365",
+      "osd": {
+        "osdId": 192,
+        "originStopId": 6792,
+        "destinationStopId": 6793,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "sdsd",
+        "selectedStopId": 6792,
+        "overage": {
+          "count": 5,
+          "uom": "PCS",
+          "comment": "sample comments"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX",
+          "comment": "shortage comments"
+        },
+        "other": {
+          "count": 8,
+          "uom": "CRT",
+          "comment": "other comments"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7965,
+      "segmentRefNumber": "303170007965",
+      "returnSegmentNumber": "303170007966",
+      "shipperReferenceNumber": "THIS WORKS",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-21T15:25:03.231",
+      "osd": {
+        "osdId": 194,
+        "originStopId": 15836,
+        "destinationStopId": 15837,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "selectedStopId": 15836,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "test"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX",
+          "comment": "shortage comments"
+        },
+        "damage": {
+          "count": 7,
+          "uom": "CTN",
+          "comment": "damage comments"
+        },
+        "other": {
+          "count": 8,
+          "uom": "CRT",
+          "comment": "other comments"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7965,
+      "segmentRefNumber": "303170007965",
+      "returnSegmentNumber": "303170007966",
+      "shipperReferenceNumber": "THIS WORKS",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-21T15:24:45.46",
+      "osd": {
+        "osdId": 193,
+        "originStopId": 15836,
+        "destinationStopId": 15837,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "fsff",
+        "selectedStopId": 15836,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "test"
+        },
+        "shortage": {
+          "count": 6,
+          "uom": "BOX",
+          "comment": "shortage comments"
+        },
+        "damage": {
+          "count": 7,
+          "uom": "CTN",
+          "comment": "damage comments"
+        },
+        "other": {
+          "count": 8,
+          "uom": "CRT",
+          "comment": "other comments"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7965,
+      "segmentRefNumber": "303170007965",
+      "returnSegmentNumber": "303170007966",
+      "shipperReferenceNumber": "THIS WORKS",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-22T03:11:32.036",
+      "osd": {
+        "osdId": 197,
+        "originStopId": 15836,
+        "destinationStopId": 15837,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "dec",
+        "selectedStopId": 15837,
+        "overage": {
+          "count": 8,
+          "uom": "PCS",
+          "comment": "overage"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7968,
+      "segmentRefNumber": "303170007968",
+      "returnSegmentNumber": "303170007969",
+      "shipperReferenceNumber": "THIS WORKS",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-21T15:47:06.784",
+      "osd": {
+        "osdId": 195,
+        "originStopId": 15842,
+        "destinationStopId": 15843,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "xasa",
+        "selectedStopId": 15842,
+        "overage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "zxdcxzc"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 8000,
+      "segmentRefNumber": "303170008000",
+      "returnSegmentNumber": "303170008033",
+      "shipperReferenceNumber": "TAP22",
+      "segmentContacts": {
+        "agent": {
+          "ident": "200012949",
+          "name": "JOELs MOVING and STORAGE",
+          "telephone": "402-452-8775",
+          "email": "jchristensen@werner.com",
+          "address": {
+            "address1": "433 Harold Bently Ave",
+            "city": "Fairbanks",
+            "state": "AK",
+            "postalCode": "99701",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "Terry Davdson",
+          "address": {
+            "address1": "187 Glenn Hwy",
+            "city": "Glennallen",
+            "state": "AK",
+            "postalCode": "99588",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "Tundra Furniture Outlet",
+          "address": {
+            "address1": "3 South Hilltop Lane",
+            "city": "Healy",
+            "state": "AK",
+            "postalCode": "99743",
+            "country": "USA"
+          },
+          "locationName": "Tundra Furniture Outlet"
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-23T11:43:39.024",
+      "osd": {
+        "osdId": 204,
+        "originStopId": 15906,
+        "destinationStopId": 15907,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "selectedStopId": 15907,
+        "shortage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "test"
+        },
+        "damage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "Crushed"
+        }
+      },
+      "quantity": "4 BOX"
+    },
+    {
+      "segmentId": 8000,
+      "segmentRefNumber": "303170008000",
+      "returnSegmentNumber": "303170008033",
+      "shipperReferenceNumber": "TAP22",
+      "segmentContacts": {
+        "agent": {
+          "ident": "200012949",
+          "name": "JOELs MOVING and STORAGE",
+          "telephone": "402-452-8775",
+          "email": "jchristensen@werner.com",
+          "address": {
+            "address1": "433 Harold Bently Ave",
+            "city": "Fairbanks",
+            "state": "AK",
+            "postalCode": "99701",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "Terry Davdson",
+          "address": {
+            "address1": "187 Glenn Hwy",
+            "city": "Glennallen",
+            "state": "AK",
+            "postalCode": "99588",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "Tundra Furniture Outlet",
+          "address": {
+            "address1": "3 South Hilltop Lane",
+            "city": "Healy",
+            "state": "AK",
+            "postalCode": "99743",
+            "country": "USA"
+          },
+          "locationName": "Tundra Furniture Outlet"
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-24T01:35:17.102",
+      "osd": {
+        "osdId": 208,
+        "originStopId": 15906,
+        "destinationStopId": 15907,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "selectedStopId": 15906,
+        "overage": {
+          "count": 5,
+          "uom": "PCS",
+          "comment": "sample comments"
+        },
+        "damage": {
+          "count": 1,
+          "uom": "BOX",
+          "comment": "Crushed"
+        }
+      },
+      "quantity": "4 BOX"
+    },
+    {
+      "segmentId": 7979,
+      "segmentRefNumber": "303170007979",
+      "returnSegmentNumber": "303170008038",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-22T05:39:29.903",
+      "osd": {
+        "osdId": 200,
+        "originStopId": 15864,
+        "destinationStopId": 15865,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "test",
+        "selectedStopId": 15864,
+        "overage": {
+          "count": 200,
+          "uom": "PCS",
+          "comment": "test"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 8006,
+      "segmentRefNumber": "303170008006",
+      "shipperReferenceNumber": "NB201703222139",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-28T10:38:45.84",
+      "osd": {
+        "osdId": 224,
+        "originStopId": 15918,
+        "destinationStopId": 15919,
+        "consigneeRefuse": false,
+        "csmInstruction": "DELVR",
+        "csmInstructionComments": "lugliughk;",
+        "selectedStopId": 15919,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": ".khlkjh"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 8006,
+      "segmentRefNumber": "303170008006",
+      "shipperReferenceNumber": "NB201703222139",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-28T10:36:53.276",
+      "osd": {
+        "osdId": 223,
+        "originStopId": 15918,
+        "destinationStopId": 15919,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "kghlkhklhk",
+        "selectedStopId": 15918,
+        "overage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "sofa"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7975,
+      "segmentRefNumber": "303170007975",
+      "returnSegmentNumber": "303170008042",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-28T04:32:47.912",
+      "osd": {
+        "osdId": 220,
+        "originStopId": 15856,
+        "destinationStopId": 15857,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "wait",
+        "selectedStopId": 15857,
+        "overage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "extra"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7975,
+      "segmentRefNumber": "303170007975",
+      "returnSegmentNumber": "303170008042",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-22T14:15:02.334",
+      "osd": {
+        "osdId": 202,
+        "originStopId": 15856,
+        "destinationStopId": 15857,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "wef",
+        "selectedStopId": 15856,
+        "damage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "asdf"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 8051,
+      "segmentRefNumber": "303170008051",
+      "returnSegmentNumber": "303170008052",
+      "shipperReferenceNumber": "MULTIPLEORDERTEST3",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "Bart Starr",
+          "address": {
+            "address1": "4475 S Fulton Pkwy",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "Home Depot #0363",
+          "address": {
+            "address1": "3200 E Prien Lake Rd",
+            "address2": "",
+            "city": "Lake Charles",
+            "state": "LA",
+            "postalCode": "70615",
+            "country": "USA"
+          },
+          "locationName": "Home Depot #0363"
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-29T10:16:30.386",
+      "osd": {
+        "osdId": 226,
+        "originStopId": 16008,
+        "destinationStopId": 16009,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "hld",
+        "selectedStopId": 16009,
+        "overage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "overage"
+        }
+      },
+      "quantity": "7 MXD"
+    },
+    {
+      "segmentId": 8051,
+      "segmentRefNumber": "303170008051",
+      "returnSegmentNumber": "303170008052",
+      "shipperReferenceNumber": "MULTIPLEORDERTEST3",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "Bart Starr",
+          "address": {
+            "address1": "4475 S Fulton Pkwy",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "Home Depot #0363",
+          "address": {
+            "address1": "3200 E Prien Lake Rd",
+            "address2": "",
+            "city": "Lake Charles",
+            "state": "LA",
+            "postalCode": "70615",
+            "country": "USA"
+          },
+          "locationName": "Home Depot #0363"
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-28T08:23:58.075",
+      "osd": {
+        "osdId": 222,
+        "originStopId": 16008,
+        "destinationStopId": 16009,
+        "consigneeRefuse": false,
+        "csmInstruction": "PRTRN",
+        "csmInstructionComments": "Return it",
+        "selectedStopId": 16008,
+        "shortage": {
+          "count": 1,
+          "uom": "CTN",
+          "comment": "Short a container"
+        }
+      },
+      "quantity": "7 MXD"
+    },
+    {
+      "segmentId": 7973,
+      "segmentRefNumber": "303170007973",
+      "returnSegmentNumber": "303170008039",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-24T09:55:34.229",
+      "osd": {
+        "osdId": 211,
+        "originStopId": 15852,
+        "destinationStopId": 15853,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "selectedStopId": 15852,
+        "overage": {
+          "count": 11,
+          "uom": "PCS",
+          "comment": "Few too many pieces"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7973,
+      "segmentRefNumber": "303170007973",
+      "returnSegmentNumber": "303170008039",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-28T00:41:26.628",
+      "osd": {
+        "osdId": 218,
+        "originStopId": 15852,
+        "destinationStopId": 15853,
+        "consigneeRefuse": false,
+        "csmInstruction": "DCSN",
+        "csmInstructionComments": "hold for now",
+        "selectedStopId": 15853,
+        "shortage": {
+          "count": 22,
+          "uom": "PCS",
+          "comment": "shortage"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7971,
+      "segmentRefNumber": "303170007971",
+      "returnSegmentNumber": "303170008041",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "GGGS LLC.",
+          "address": {
+            "address1": "13441 Erskine St",
+            "city": "Omaha",
+            "state": "NE",
+            "postalCode": "68164",
+            "country": "USA"
+          },
+          "locationName": "GGGS LLC."
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-27T14:18:04.936",
+      "osd": {
+        "osdId": 216,
+        "originStopId": 15848,
+        "destinationStopId": 15849,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "selectedStopId": 15848,
+        "damage": {
+          "count": 2,
+          "uom": "PCS",
+          "comment": "take it back"
+        }
+      },
+      "quantity": "1 PCS"
+    },
+    {
+      "segmentId": 7977,
+      "segmentRefNumber": "303170007977",
+      "returnSegmentNumber": "303170008043",
+      "shipperReferenceNumber": "NB201703211449",
+      "segmentContacts": {
+        "agent": {
+          "ident": "100012944",
+          "name": "AADVANTAGE RELOCATION, INC.",
+          "telephone": "850-866-4726",
+          "email": "jmoore@teammove.com",
+          "address": {
+            "address1": "1201 Barnsesville Hwy. ",
+            "city": "Thomaston",
+            "state": "GA",
+            "postalCode": "30286",
+            "country": "USA"
+          }
+        },
+        "ltl": {
+          "ident": "100010917",
+          "name": "ABF FREIGHT SYSTEM INC",
+          "address": {
+            "address1": "PO BOX 10048",
+            "address2": "",
+            "city": "FORT SMITH",
+            "state": "AR",
+            "postalCode": "72917",
+            "country": "USA"
+          }
+        },
+        "customer": {
+          "name": "FACTORY DIRECT FURNITURE                          ",
+          "address": {
+            "address1": "301 Broad St                                           ",
+            "address2": "                                                       ",
+            "address3": "                                                       ",
+            "address4": "                                                       ",
+            "city": "KINGSPORT                               ",
+            "state": "TN ",
+            "postalCode": "37660      ",
+            "country": "USA"
+          }
+        },
+        "consignee": {
+          "name": "American Building Supply",
+          "address": {
+            "address1": "Bldg 2",
+            "city": "Atlanta",
+            "state": "GA",
+            "postalCode": "30349",
+            "country": "USA"
+          },
+          "contact": {}
+        },
+        "origin": {
+          "name": "The Sedalia Democrat",
+          "address": {
+            "address1": "2501 W Main St",
+            "city": "Sedalia",
+            "state": "MO",
+            "postalCode": "65301",
+            "country": "USA"
+          },
+          "locationName": "The Sedalia Democrat"
+        }
+      },
+      "photoLink": "https://dev-iview.wernerds.net",
+      "submissionDt": "2017-03-27T19:05:32.065",
+      "osd": {
+        "osdId": 217,
+        "originStopId": 15860,
+        "destinationStopId": 15861,
+        "consigneeRefuse": false,
+        "csmInstruction": "FRTRN",
+        "csmInstructionComments": "take it back",
+        "selectedStopId": 15860,
+        "damage": {
+          "count": 1,
+          "uom": "PCS",
+          "comment": "take it back"
+        }
+      },
+      "quantity": "1 PCS"
+    }
+  ]
+}
