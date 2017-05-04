@@ -1,156 +1,70 @@
 [
   {
     "shipment": {
-      "id": 1499,
-      "identificationNumber": "302170001502",
+      "id": 5,
+      "identificationNumber": "302160000005",
       "orders": [
         {
           "loadLevel": "SH",
-          "id": 1506,
-          "orderNumber": "AcmeOrder2",
+          "id": 5,
+          "orderNumber": "23977239",
           "freights": [
             {
-              "id": 1527,
-              "description": "Space Dog",
+              "id": 21813,
+              "description": "description",
               "unitizedQuantity": {
-                "quantity": 156781502,
-                "quantityUom": "MXD"
+                "quantity": 3,
+                "quantityUom": "PCS"
               },
               "nonUnitizedQuantity": {},
               "weight": {
-                "weight": 25,
-                "weightUOM": "L",
-                "type": "G"
+                "weight": 22,
+                "weightUOM": "L"
               },
               "dimensions": {
-                "dimLength": 36,
-                "dimWidth": 12,
-                "dimHeight": 72,
-                "dimLwhMeasurementUnitTypeId": "N"
+                "dimLength": 2,
+                "dimWidth": 2,
+                "dimHeight": 2,
+                "dimLwhMeasurementUnitTypeId": "E"
               },
-              "freightClass": "70"
+              "freightClass": null
             },
             {
-              "id": 1528,
-              "description": "Illudium Q-36 explosive space modulator",
+              "id": 21814,
+              "description": "description",
               "unitizedQuantity": {
-                "quantity": -1814798924,
-                "quantityUom": "MXD"
+                "quantity": 3,
+                "quantityUom": "PCS"
               },
               "nonUnitizedQuantity": {},
               "weight": {
-                "weight": 1,
-                "weightUOM": "L",
-                "type": "G"
+                "weight": 22,
+                "weightUOM": "L"
               },
               "dimensions": {
-                "dimLength": 6,
+                "dimLength": 2,
                 "dimWidth": 2,
-                "dimHeight": 1,
-                "dimLwhMeasurementUnitTypeId": "N"
+                "dimHeight": 2,
+                "dimLwhMeasurementUnitTypeId": "E"
               },
-              "freightClass": "70"
-            }
-          ]
-        },
-        {
-          "loadLevel": "SH",
-          "id": 1507,
-          "orderNumber": "AcmeOrder3",
-          "freights": [
-            {
-              "id": 1529,
-              "description": "Martian Capsules",
-              "unitizedQuantity": {
-                "quantity": 652137463,
-                "quantityUom": "MXD"
-              },
-              "nonUnitizedQuantity": {},
-              "weight": {
-                "weight": 1,
-                "weightUOM": "L",
-                "type": "G"
-              },
-              "dimensions": {
-                "dimLength": 1,
-                "dimWidth": 1,
-                "dimHeight": 1,
-                "dimLwhMeasurementUnitTypeId": "N"
-              },
-              "freightClass": "70"
+              "freightClass": null
             }
           ]
         }
       ],
       "stops": [
         {
-          "id": 2978,
-          "seqNumber": 2,
-          "location": {
-            "id": 4075,
-            "name": "Jim Rockord",
-            "address": {
-              "address1": "4475 S Fulton Pkwy",
-              "address2": "Back Door",
-              "city": "Atlanta",
-              "state": "GA",
-              "postalCode": "30349",
-              "country": "USA"
-            }
-          },
-          "apptTypeId": "N",
-          "apptSubTypeId": null,
-          "schEarliestDateTime": null,
-          "schTargetDateTime": null,
-          "schLatestDateTime": null,
-          "actualArrivedDateTime": null,
-          "actualDepartedDateTime": null,
-          "contacts": [
-            {
-              "loadLevel": "SR",
-              "id": 5700,
-              "name": "Mrs. Rockford",
-              "contactFunctionCodeId": "AL",
-              "contactNumber": {
-                "number": "4025556666",
-                "communicationNumberTypeId": "CP"
-              }
-            },
-            {
-              "loadLevel": "SR",
-              "id": 5698,
-              "name": "Mr. Jim",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "4023331111",
-                "communicationNumberTypeId": "CP"
-              }
-            },
-            {
-              "loadLevel": "SR",
-              "id": 5699,
-              "name": "Mr. Jim",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "test@test.com",
-                "communicationNumberTypeId": "EM"
-              }
-            }
-          ]
-        },
-        {
-          "id": 2977,
+          "id": 9,
           "seqNumber": 1,
           "location": {
-            "id": 4074,
-            "name": "GGGS LLC.",
-            "locationIdentifier": "PKWRYKGK",
+            "id": 13,
+            "name": "Werner Test 4 Drop Location",
+            "locationIdentifier": "HJUWLPTH",
             "address": {
-              "address1": "13441 Erskine St",
-              "address2": "",
-              "city": "Omaha",
-              "state": "NE",
-              "postalCode": "68164",
+              "address1": "364 Harrison St",
+              "city": "Council Bluffs",
+              "state": "IA",
+              "postalCode": "51503",
               "country": "USA"
             }
           },
@@ -159,7 +73,33 @@
           "schEarliestDateTime": null,
           "schTargetDateTime": null,
           "schLatestDateTime": {
-            "date": "2017-02-28",
+            "date": "2016-04-11",
+            "time": null
+          },
+          "actualArrivedDateTime": null,
+          "actualDepartedDateTime": null,
+          "contacts": []
+        },
+        {
+          "id": 11,
+          "seqNumber": 2,
+          "location": {
+            "id": 14,
+            "name": "International Links Melreese Country Club",
+            "address": {
+              "address1": "1802 NW 37th Ave",
+              "city": "Miami",
+              "state": "FL",
+              "postalCode": "33125",
+              "country": "USA"
+            }
+          },
+          "apptTypeId": "N",
+          "apptSubTypeId": null,
+          "schEarliestDateTime": null,
+          "schTargetDateTime": null,
+          "schLatestDateTime": {
+            "date": "2016-04-15",
             "time": null
           },
           "actualArrivedDateTime": null,
@@ -167,12 +107,22 @@
           "contacts": [
             {
               "loadLevel": "SR",
-              "id": 5697,
-              "name": "GG LL",
+              "id": 19,
+              "name": "John Doe",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
-                "number": "8003336666",
-                "communicationNumberTypeId": "WP"
+                "number": "4021234123",
+                "communicationNumberTypeId": "TE"
+              }
+            },
+            {
+              "loadLevel": "SR",
+              "id": 2,
+              "name": "John Doe",
+              "contactFunctionCodeId": "AJ",
+              "contactNumber": {
+                "number": "jdoe@gmail.com",
+                "communicationNumberTypeId": "EA"
               }
             }
           ]
@@ -182,131 +132,54 @@
       "references": [
         {
           "loadLevel": "SR",
-          "id": 2586,
-          "loadId": 1849,
-          "value": "123-456",
-          "code": "$UNKWN",
-          "desc": "Unknown (Internal only)"
-        },
-        {
-          "loadLevel": "SR",
-          "id": 2583,
-          "loadId": 1849,
-          "value": "ILLUDIUM Q-36",
-          "code": "M6",
-          "desc": "Military Ordnance Security Risk Number"
-        },
-        {
-          "loadLevel": "SR",
-          "id": 2582,
-          "loadId": 1849,
-          "value": "ILLUDIUM Q-36 R2",
-          "code": "WH",
-          "desc": "Master Reference (Link) Number"
-        },
-        {
-          "loadLevel": "SR",
-          "id": 2584,
-          "loadId": 1849,
-          "value": "123-456",
-          "code": "$UNKWN",
-          "desc": "Unknown (Internal only)"
-        },
-        {
-          "loadLevel": "SR",
-          "id": 2585,
-          "loadId": 1849,
-          "value": "ILLUDIUM Q-36",
-          "code": "M6",
-          "desc": "Military Ordnance Security Risk Number"
+          "id": 7,
+          "loadId": 7,
+          "value": "testing",
+          "code": "DO",
+          "desc": "Delivery Order Number"
         }
       ],
-      "shipmentStatuses": [
-        {
-          "id": 1732,
-          "segmentNumber": "303170001802",
-          "location": {
-            "id": 1314,
-            "name": "BELTMANN GROUP INCORPORATED",
-            "locationIdentifier": "DR4U77S5",
-            "address": {
-              "address1": "4897 Lewis Rd. Unit C",
-              "city": "Stone Mountain",
-              "state": "GA",
-              "postalCode": "30083",
-              "country": "USA"
-            }
-          },
-          "positionCityState": null,
-          "reasonCode": null,
-          "reasonDescription": null,
-          "statusCode": "AG",
-          "statusDescription": "Estimated Delivery",
-          "comments": "",
-          "eventDateTime": null,
-          "receivedDateTime": "2017-03-02T06:40:03.604"
-        }
-      ],
+      "shipmentStatuses": [],
       "serviceStatuses": [
         {
-          "id": 5654,
+          "id": 80056,
           "entity": "Shipment",
-          "identificationNumber": "302170001502",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
-          "type": "CarrierSelection",
-          "lastCalledDate": "2017-03-02T06:39:55.563"
-        },
-        {
-          "id": 5653,
-          "entity": "Shipment",
-          "identificationNumber": "302170001502",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
-          "type": "AddCharges",
-          "lastCalledDate": "2017-03-02T06:39:48.441"
-        },
-        {
-          "id": 5652,
-          "entity": "Shipment",
-          "identificationNumber": "302170001502",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
-          "type": "AgentSelectionProcess",
-          "lastCalledDate": "2017-03-02T06:39:47.915"
-        },
-        {
-          "id": 5651,
-          "entity": "Shipment",
-          "identificationNumber": "302170001502",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
-          "type": "Credit",
-          "lastCalledDate": "2017-03-02T06:39:47.633"
-        },
-        {
-          "id": 5650,
-          "entity": "Shipment",
-          "identificationNumber": "302170001502",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
-          "type": "Rate",
-          "lastCalledDate": "2017-03-02T06:39:46.416"
-        },
-        {
-          "id": 5649,
-          "entity": "Shipment",
-          "identificationNumber": "302170001502",
+          "identificationNumber": "302160000005",
           "loadLevelType": "SH",
           "status": "COMPLETED",
           "description": null,
           "type": "Distance",
-          "lastCalledDate": "2017-03-02T06:39:45.529"
+          "lastCalledDate": "2017-05-03T22:39:03.204"
+        },
+        {
+          "id": 4799,
+          "entity": "Shipment",
+          "identificationNumber": "302160000005",
+          "loadLevelType": "SH",
+          "status": "FAILED",
+          "description": "No Rates. Credit check skipped",
+          "type": "Credit",
+          "lastCalledDate": "2017-04-20T15:05:13.913"
+        },
+        {
+          "id": 4800,
+          "entity": "Shipment",
+          "identificationNumber": "302160000005",
+          "loadLevelType": "SH",
+          "status": "FAILED",
+          "description": "Credit availability could not be verified",
+          "type": "AddCharges",
+          "lastCalledDate": "2017-04-13T09:15:21.91"
+        },
+        {
+          "id": 253,
+          "entity": "Shipment",
+          "identificationNumber": "302160000005",
+          "loadLevelType": "SH",
+          "status": "FAILED",
+          "description": null,
+          "type": "Rate",
+          "lastCalledDate": "2017-04-13T09:15:20.404"
         }
       ],
       "freightStatus": "PNDG",
@@ -328,123 +201,43 @@
         "customerProfileIdent": "12011",
         "as400_BillToCode": "FADIFU01"
       },
-      "deliveryOption": "WGLV",
-      "doNotBill": false,
+      "deliveryOption": "CURB",
+      "doNotBill": true,
       "costDivision": "LSFM ",
       "businessUnit": "WERFM",
-      "customerServiceContact": {
-        "id": 5696,
-        "name": "FDF",
-        "contactFunctionCodeId": "AJ",
-        "contactNumber": {
-          "number": "8002223333",
-          "communicationNumberTypeId": "TE"
-        }
-      },
       "sourceSystem": "Final Mile",
       "billableDistance": {
-        "distance": 1002,
+        "distance": 1657,
         "uom": "Miles",
         "productVersion": "MM19",
         "productName": "Rand McNally"
-      }
+      },
+      "billingStatus": "PNDG"
     },
     "segments": [
       {
-        "id": 1802,
-        "identificationNumber": "303170001802",
+        "id": 13,
+        "identificationNumber": "303160000013",
         "orders": [
           {
             "loadLevel": "SG",
-            "id": 1718,
-            "orderNumber": "AcmeOrder2",
-            "freights": [
-              {
-                "id": 1752,
-                "description": "Illudium Q-36 explosive space modulator",
-                "unitizedQuantity": {
-                  "quantity": 10,
-                  "quantityUom": "BOX"
-                },
-                "nonUnitizedQuantity": {},
-                "weight": {
-                  "weight": 1,
-                  "weightUOM": "L",
-                  "type": "G"
-                },
-                "dimensions": {
-                  "dimLength": 6,
-                  "dimWidth": 2,
-                  "dimHeight": 1,
-                  "dimLwhMeasurementUnitTypeId": "N"
-                },
-                "freightClass": "70"
-              },
-              {
-                "id": 1751,
-                "description": "Space Dog",
-                "unitizedQuantity": {
-                  "quantity": 1,
-                  "quantityUom": "CRT"
-                },
-                "nonUnitizedQuantity": {},
-                "weight": {
-                  "weight": 25,
-                  "weightUOM": "L",
-                  "type": "G"
-                },
-                "dimensions": {
-                  "dimLength": 36,
-                  "dimWidth": 12,
-                  "dimHeight": 72,
-                  "dimLwhMeasurementUnitTypeId": "N"
-                },
-                "freightClass": "70"
-              }
-            ]
-          },
-          {
-            "loadLevel": "SG",
-            "id": 1719,
-            "orderNumber": "AcmeOrder3",
-            "freights": [
-              {
-                "id": 1753,
-                "description": "Martian Capsules",
-                "unitizedQuantity": {
-                  "quantity": 1,
-                  "quantityUom": "PLT"
-                },
-                "nonUnitizedQuantity": {},
-                "weight": {
-                  "weight": 1,
-                  "weightUOM": "L",
-                  "type": "G"
-                },
-                "dimensions": {
-                  "dimLength": 1,
-                  "dimWidth": 1,
-                  "dimHeight": 1,
-                  "dimLwhMeasurementUnitTypeId": "N"
-                },
-                "freightClass": "70"
-              }
-            ]
+            "id": 14,
+            "orderNumber": "23977239",
+            "freights": []
           }
         ],
         "stops": [
           {
-            "id": 3511,
+            "id": 28,
             "seqNumber": 2,
             "location": {
-              "id": 1314,
-              "name": "BELTMANN GROUP INCORPORATED",
-              "locationIdentifier": "DR4U77S5",
+              "id": 14,
+              "name": "International Links Melreese Country Club",
               "address": {
-                "address1": "4897 Lewis Rd. Unit C",
-                "city": "Stone Mountain",
-                "state": "GA",
-                "postalCode": "30083",
+                "address1": "1802 NW 37th Ave",
+                "city": "Miami",
+                "state": "FL",
+                "postalCode": "33125",
                 "country": "USA"
               }
             },
@@ -453,26 +246,51 @@
             "schEarliestDateTime": null,
             "schTargetDateTime": null,
             "schLatestDateTime": {
-              "date": "2017-02-28",
+              "date": "2017-02-01",
               "time": null
             },
-            "actualArrivedDateTime": null,
-            "actualDepartedDateTime": null,
-            "contacts": []
+            "actualArrivedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:00:00"
+            },
+            "actualDepartedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:01:00"
+            },
+            "contacts": [
+              {
+                "loadLevel": "SR",
+                "id": 19,
+                "name": "John Doe",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "4021234123",
+                  "communicationNumberTypeId": "TE"
+                }
+              },
+              {
+                "loadLevel": "SR",
+                "id": 11,
+                "name": "John Doe",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "jdoe@gmail.com",
+                  "communicationNumberTypeId": "EA"
+                }
+              }
+            ]
           },
           {
-            "id": 3510,
+            "id": 26,
             "seqNumber": 1,
             "location": {
-              "id": 4074,
-              "name": "GGGS LLC.",
-              "locationIdentifier": "PKWRYKGK",
+              "id": -2,
+              "name": "Pack On The Go",
               "address": {
-                "address1": "13441 Erskine St",
-                "address2": "",
-                "city": "Omaha",
-                "state": "NE",
-                "postalCode": "68164",
+                "address1": "1520 S Powerline Rd",
+                "city": "Deerfield Beach",
+                "state": "FL",
+                "postalCode": "33442",
                 "country": "USA"
               }
             },
@@ -481,444 +299,234 @@
             "schEarliestDateTime": null,
             "schTargetDateTime": null,
             "schLatestDateTime": {
-              "date": "2017-02-28",
+              "date": "2017-02-01",
               "time": null
             },
-            "actualArrivedDateTime": null,
-            "actualDepartedDateTime": null,
-            "contacts": [
-              {
-                "loadLevel": "SR",
-                "id": 5697,
-                "name": "GG LL",
-                "contactFunctionCodeId": "AJ",
-                "contactNumber": {
-                  "number": "8003336666",
-                  "communicationNumberTypeId": "WP"
-                }
-              }
-            ]
-          }
-        ],
-        "comments": [],
-        "references": [
-          {
-            "loadLevel": "SR",
-            "id": 2584,
-            "loadId": 1849,
-            "value": "123-456",
-            "code": "$UNKWN",
-            "desc": "Unknown (Internal only)"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2583,
-            "loadId": 1849,
-            "value": "ILLUDIUM Q-36",
-            "code": "M6",
-            "desc": "Military Ordnance Security Risk Number"
-          },
-          {
-            "loadLevel": "SG",
-            "id": 1170,
-            "loadId": 1802,
-            "value": "303170001803",
-            "code": "_0L",
-            "desc": "Referenced By"
-          },
-          {
-            "loadLevel": "SG",
-            "id": 1171,
-            "loadId": 1802,
-            "value": "WernerFM",
-            "code": "_0L",
-            "desc": "Referenced By"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2582,
-            "loadId": 1849,
-            "value": "ILLUDIUM Q-36 R2",
-            "code": "WH",
-            "desc": "Master Reference (Link) Number"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2586,
-            "loadId": 1849,
-            "value": "123-456",
-            "code": "$UNKWN",
-            "desc": "Unknown (Internal only)"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2585,
-            "loadId": 1849,
-            "value": "ILLUDIUM Q-36",
-            "code": "M6",
-            "desc": "Military Ordnance Security Risk Number"
-          }
-        ],
-        "shipmentStatuses": [
-          {
-            "id": 1732,
-            "segmentNumber": "303170001802",
-            "location": {
-              "id": 1314,
-              "name": "BELTMANN GROUP INCORPORATED",
-              "locationIdentifier": "DR4U77S5",
-              "address": {
-                "address1": "4897 Lewis Rd. Unit C",
-                "city": "Stone Mountain",
-                "state": "GA",
-                "postalCode": "30083",
-                "country": "USA"
-              }
+            "actualArrivedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:00:00"
             },
-            "positionCityState": null,
-            "reasonCode": null,
-            "reasonDescription": null,
-            "statusCode": "AG",
-            "statusDescription": "Estimated Delivery",
-            "comments": "",
-            "eventDateTime": null,
-            "receivedDateTime": "2017-03-02T06:40:03.604"
-          }
-        ],
-        "serviceStatuses": [
-          {
-            "id": 3022,
-            "entity": "LTL Segment",
-            "identificationNumber": "303170001802",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "OBLT",
-            "lastCalledDate": "2017-03-02T06:40:06.767"
-          },
-          {
-            "id": 3020,
-            "entity": "LTL Segment",
-            "identificationNumber": "303170001802",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "AddCharges",
-            "lastCalledDate": "2017-03-02T06:40:03.588"
-          },
-          {
-            "id": 3018,
-            "entity": "LTL Segment",
-            "identificationNumber": "303170001802",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "Rate",
-            "lastCalledDate": "2017-03-02T06:40:02.914"
-          },
-          {
-            "id": 3016,
-            "entity": "LTL Segment",
-            "identificationNumber": "303170001802",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "Distance",
-            "lastCalledDate": "2017-03-02T06:40:01.775"
-          },
-          {
-            "id": 3014,
-            "entity": "LTL Segment",
-            "identificationNumber": "303170001802",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "TransitTime",
-            "lastCalledDate": "2017-03-02T06:40:00.028"
-          }
-        ],
-        "carrier": {
-          "carrierIdent": "100001043",
-          "scac": "DAFG",
-          "name": "DAYTON FREIGHT LINES INC",
-          "email": "MRUSSELL@DAYTONFREIGHT.COM",
-          "contactNumber": "8008605102",
-          "addressVo": {
-            "address1": "6450 POE AVE",
-            "address2": "STE 311",
-            "city": "DAYTON",
-            "state": "OH",
-            "postalCode": "45414",
-            "country": "USA"
-          }
-        },
-        "freightStatus": "PNDG",
-        "freightExceptions": []
-      },
-      {
-        "id": 1803,
-        "identificationNumber": "303170001803",
-        "orders": [
-          {
-            "loadLevel": "SG",
-            "id": 1720,
-            "orderNumber": "AcmeOrder3",
-            "freights": [
-              {
-                "id": 1754,
-                "description": "Martian Capsules",
-                "unitizedQuantity": {
-                  "quantity": 1,
-                  "quantityUom": "PLT"
-                },
-                "nonUnitizedQuantity": {},
-                "weight": {
-                  "weight": 1,
-                  "weightUOM": "L",
-                  "type": "G"
-                },
-                "dimensions": {
-                  "dimLength": 1,
-                  "dimWidth": 1,
-                  "dimHeight": 1,
-                  "dimLwhMeasurementUnitTypeId": "N"
-                },
-                "freightClass": "70"
-              }
-            ]
-          },
-          {
-            "loadLevel": "SG",
-            "id": 1721,
-            "orderNumber": "AcmeOrder2",
-            "freights": [
-              {
-                "id": 1755,
-                "description": "Illudium Q-36 explosive space modulator",
-                "unitizedQuantity": {
-                  "quantity": 10,
-                  "quantityUom": "BOX"
-                },
-                "nonUnitizedQuantity": {},
-                "weight": {
-                  "weight": 1,
-                  "weightUOM": "L",
-                  "type": "G"
-                },
-                "dimensions": {
-                  "dimLength": 6,
-                  "dimWidth": 2,
-                  "dimHeight": 1,
-                  "dimLwhMeasurementUnitTypeId": "N"
-                },
-                "freightClass": "70"
-              },
-              {
-                "id": 1756,
-                "description": "Space Dog",
-                "unitizedQuantity": {
-                  "quantity": 1,
-                  "quantityUom": "CRT"
-                },
-                "nonUnitizedQuantity": {},
-                "weight": {
-                  "weight": 25,
-                  "weightUOM": "L",
-                  "type": "G"
-                },
-                "dimensions": {
-                  "dimLength": 36,
-                  "dimWidth": 12,
-                  "dimHeight": 72,
-                  "dimLwhMeasurementUnitTypeId": "N"
-                },
-                "freightClass": "70"
-              }
-            ]
-          }
-        ],
-        "stops": [
-          {
-            "id": 3512,
-            "seqNumber": 1,
-            "location": {
-              "id": 1314,
-              "name": "BELTMANN GROUP INCORPORATED",
-              "locationIdentifier": "DR4U77S5",
-              "address": {
-                "address1": "4897 Lewis Rd. Unit C",
-                "city": "Stone Mountain",
-                "state": "GA",
-                "postalCode": "30083",
-                "country": "USA"
-              }
+            "actualDepartedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:01:00"
             },
-            "apptTypeId": "N",
-            "apptSubTypeId": null,
-            "schEarliestDateTime": null,
-            "schTargetDateTime": null,
-            "schLatestDateTime": null,
-            "actualArrivedDateTime": null,
-            "actualDepartedDateTime": null,
             "contacts": []
-          },
-          {
-            "id": 3513,
-            "seqNumber": 2,
-            "location": {
-              "id": 4075,
-              "name": "Jim Rockord",
-              "address": {
-                "address1": "4475 S Fulton Pkwy",
-                "address2": "Back Door",
-                "city": "Atlanta",
-                "state": "GA",
-                "postalCode": "30349",
-                "country": "USA"
-              }
-            },
-            "apptTypeId": "N",
-            "apptSubTypeId": null,
-            "schEarliestDateTime": null,
-            "schTargetDateTime": null,
-            "schLatestDateTime": null,
-            "actualArrivedDateTime": null,
-            "actualDepartedDateTime": null,
-            "contacts": [
-              {
-                "loadLevel": "SR",
-                "id": 5700,
-                "name": "Mrs. Rockford",
-                "contactFunctionCodeId": "AL",
-                "contactNumber": {
-                  "number": "4025556666",
-                  "communicationNumberTypeId": "CP"
-                }
-              },
-              {
-                "loadLevel": "SR",
-                "id": 5699,
-                "name": "Mr. Jim",
-                "contactFunctionCodeId": "AJ",
-                "contactNumber": {
-                  "number": "test@test.com",
-                  "communicationNumberTypeId": "EM"
-                }
-              },
-              {
-                "loadLevel": "SR",
-                "id": 5698,
-                "name": "Mr. Jim",
-                "contactFunctionCodeId": "AJ",
-                "contactNumber": {
-                  "number": "4023331111",
-                  "communicationNumberTypeId": "CP"
-                }
-              }
-            ]
           }
         ],
         "comments": [],
         "references": [
           {
             "loadLevel": "SR",
-            "id": 2582,
-            "loadId": 1849,
-            "value": "ILLUDIUM Q-36 R2",
-            "code": "WH",
-            "desc": "Master Reference (Link) Number"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2583,
-            "loadId": 1849,
-            "value": "ILLUDIUM Q-36",
-            "code": "M6",
-            "desc": "Military Ordnance Security Risk Number"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2586,
-            "loadId": 1849,
-            "value": "123-456",
-            "code": "$UNKWN",
-            "desc": "Unknown (Internal only)"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2584,
-            "loadId": 1849,
-            "value": "123-456",
-            "code": "$UNKWN",
-            "desc": "Unknown (Internal only)"
-          },
-          {
-            "loadLevel": "SR",
-            "id": 2585,
-            "loadId": 1849,
-            "value": "ILLUDIUM Q-36",
-            "code": "M6",
-            "desc": "Military Ordnance Security Risk Number"
+            "id": 7,
+            "loadId": 7,
+            "value": "testing",
+            "code": "DO",
+            "desc": "Delivery Order Number"
           }
         ],
         "shipmentStatuses": [],
         "serviceStatuses": [
           {
-            "id": 3021,
-            "entity": "Agent Segment",
-            "identificationNumber": "303170001803",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "OBLT",
-            "lastCalledDate": "2017-03-02T06:40:06.75"
-          },
-          {
-            "id": 3019,
-            "entity": "Agent Segment",
-            "identificationNumber": "303170001803",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "AddCharges",
-            "lastCalledDate": "2017-03-02T06:40:03.295"
-          },
-          {
-            "id": 3017,
-            "entity": "Agent Segment",
-            "identificationNumber": "303170001803",
-            "loadLevelType": "SG",
-            "status": "COMPLETED",
-            "description": null,
-            "type": "Rate",
-            "lastCalledDate": "2017-03-02T06:40:02.5"
-          },
-          {
-            "id": 3015,
-            "entity": "Agent Segment",
-            "identificationNumber": "303170001803",
+            "id": 44503,
+            "entity": "LTL Segment",
+            "identificationNumber": "303160000013",
             "loadLevelType": "SG",
             "status": "COMPLETED",
             "description": null,
             "type": "Distance",
-            "lastCalledDate": "2017-03-02T06:40:01.13"
+            "lastCalledDate": "2017-05-03T22:39:06.362"
+          },
+          {
+            "id": 9294,
+            "entity": "LTL Segment",
+            "identificationNumber": "303160000013",
+            "loadLevelType": "SG",
+            "status": "FAILED",
+            "description": "fromValue() could not be found/executed on com.werner.schema.common.enumeration.v1_0.LoadTypeEnum",
+            "type": "Rate",
+            "lastCalledDate": "2017-04-13T09:15:21.84"
+          },
+          {
+            "id": 10091,
+            "entity": "LTL Segment",
+            "identificationNumber": "303160000013",
+            "loadLevelType": "SG",
+            "status": "FAILED",
+            "description": null,
+            "type": "AddCharges",
+            "lastCalledDate": "2017-03-16T20:11:46.58"
           }
         ],
         "carrier": {
-          "carrierIdent": "100012949",
-          "name": "BELTMANN GROUP INCORPORATED",
-          "email": "tari.dean@beltmann.com",
-          "contactNumber": "678-328-2521",
+          "carrierIdent": "100011816",
+          "name": "GILL 22 TRUCKING LLC",
+          "email": "GILL22LLC@GMAIL.COM",
+          "contactNumber": "4147552322",
           "addressVo": {
-            "address1": "4897 Lewis Rd. Unit C",
-            "city": "Stone Mountain",
-            "state": "GA",
-            "postalCode": "30083",
+            "address1": "503 E CONNER CT",
+            "address2": "",
+            "city": "OAK CREEK",
+            "state": "WI",
+            "postalCode": "53154",
             "country": "USA"
           }
         },
-        "freightStatus": "PNDG",
-        "freightExceptions": []
+        "freightStatus": "DELVRD",
+        "freightExceptions": [],
+        "payableDistance": {
+          "distance": 42,
+          "uom": "Miles",
+          "productVersion": "MM19",
+          "productName": "Rand McNally"
+        },
+        "payableStatus": "PNDG"
+      },
+      {
+        "id": 14,
+        "identificationNumber": "303160000014",
+        "orders": [
+          {
+            "loadLevel": "SG",
+            "id": 13,
+            "orderNumber": "23977239",
+            "freights": []
+          }
+        ],
+        "stops": [
+          {
+            "id": 25,
+            "seqNumber": 1,
+            "location": {
+              "id": 13,
+              "name": "Werner Test 4 Drop Location",
+              "locationIdentifier": "HJUWLPTH",
+              "address": {
+                "address1": "364 Harrison St",
+                "city": "Council Bluffs",
+                "state": "IA",
+                "postalCode": "51503",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2017-02-01",
+              "time": null
+            },
+            "actualArrivedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:00:00"
+            },
+            "actualDepartedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:01:00"
+            },
+            "contacts": []
+          },
+          {
+            "id": 27,
+            "seqNumber": 2,
+            "location": {
+              "id": -2,
+              "name": "Pack On The Go",
+              "address": {
+                "address1": "1520 S Powerline Rd",
+                "city": "Deerfield Beach",
+                "state": "FL",
+                "postalCode": "33442",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2017-02-01",
+              "time": null
+            },
+            "actualArrivedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:00:00"
+            },
+            "actualDepartedDateTime": {
+              "date": "2017-02-01",
+              "time": "07:01:00"
+            },
+            "contacts": []
+          }
+        ],
+        "comments": [],
+        "references": [
+          {
+            "loadLevel": "SR",
+            "id": 7,
+            "loadId": 7,
+            "value": "testing",
+            "code": "DO",
+            "desc": "Delivery Order Number"
+          }
+        ],
+        "shipmentStatuses": [],
+        "serviceStatuses": [
+          {
+            "id": 44502,
+            "entity": "LTL Segment",
+            "identificationNumber": "303160000014",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "description": null,
+            "type": "Distance",
+            "lastCalledDate": "2017-05-03T22:39:05.31"
+          },
+          {
+            "id": 9295,
+            "entity": "LTL Segment",
+            "identificationNumber": "303160000014",
+            "loadLevelType": "SG",
+            "status": "FAILED",
+            "description": "fromValue() could not be found/executed on com.werner.schema.common.enumeration.v1_0.LoadTypeEnum",
+            "type": "Rate",
+            "lastCalledDate": "2017-04-13T09:15:21.926"
+          },
+          {
+            "id": 10090,
+            "entity": "LTL Segment",
+            "identificationNumber": "303160000014",
+            "loadLevelType": "SG",
+            "status": "FAILED",
+            "description": null,
+            "type": "AddCharges",
+            "lastCalledDate": "2017-03-16T20:11:46.518"
+          }
+        ],
+        "carrier": {
+          "carrierIdent": "100006846",
+          "scac": "",
+          "name": "5AAB TRANSPORT LLC",
+          "email": "OSCAR@5AABTRANSPORT.COM",
+          "contactNumber": "6144236861",
+          "addressVo": {
+            "address1": "822 OAKLEY DR",
+            "address2": "",
+            "city": "DELAWARE",
+            "state": "OH",
+            "postalCode": "43015",
+            "country": "USA"
+          }
+        },
+        "freightStatus": "DELVRD",
+        "freightExceptions": [],
+        "payableDistance": {
+          "distance": 1620,
+          "uom": "Miles",
+          "productVersion": "MM19",
+          "productName": "Rand McNally"
+        },
+        "payableStatus": "PNDG"
       }
     ]
   }
