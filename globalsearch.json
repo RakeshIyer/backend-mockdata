@@ -27,13 +27,13 @@
         "seqNumber": 1,
         "location": {
           "id": 13,
-          "name": "DENVER WAREHOUSE",
-          "locationIdentifier": "FLHYS3DM",
+          "name": "Werner Test 4 Drop Location",
+          "locationIdentifier": "HJUWLPTH",
           "address": {
-            "address1": "4905 MOORES MILL ROAD",
-            "city": "Denver",
-            "state": "CO",
-            "postalCode": "80208",
+            "address1": "364 Harrison St",
+            "city": "Council Bluffs",
+            "state": "IA",
+            "postalCode": "51503",
             "country": "USA"
           }
         },
@@ -86,26 +86,6 @@
           },
           {
             "loadLevel": "SR",
-            "id": 1,
-            "name": "John Doe",
-            "contactFunctionCodeId": "AJ",
-            "contactNumber": {
-              "number": "4021234123",
-              "communicationNumberTypeId": "TE"
-            }
-          },
-          {
-            "loadLevel": "SR",
-            "id": 11,
-            "name": "John Doe",
-            "contactFunctionCodeId": "AJ",
-            "contactNumber": {
-              "number": "jdoe@gmail.com",
-              "communicationNumberTypeId": "EA"
-            }
-          },
-          {
-            "loadLevel": "SR",
             "id": 19,
             "name": "John Doe",
             "contactFunctionCodeId": "AJ",
@@ -124,7 +104,7 @@
           "loadLevel": "SR",
           "id": 7,
           "loadId": 7,
-          "value": "23977239",
+          "value": "testing",
           "code": "DO",
           "desc": "Delivery Order Number"
         }
@@ -139,13 +119,13 @@
           "seqNumber": 1,
           "location": {
             "id": 13,
-            "name": "DENVER WAREHOUSE",
-            "locationIdentifier": "FLHYS3DM",
+            "name": "Werner Test 4 Drop Location",
+            "locationIdentifier": "HJUWLPTH",
             "address": {
-              "address1": "4905 MOORES MILL ROAD",
-              "city": "Denver",
-              "state": "CO",
-              "postalCode": "80208",
+              "address1": "364 Harrison St",
+              "city": "Council Bluffs",
+              "state": "IA",
+              "postalCode": "51503",
               "country": "USA"
             }
           },
@@ -158,12 +138,12 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:00:00"
+            "date": "2017-02-01",
+            "time": "07:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:10:00"
+            "date": "2017-02-01",
+            "time": "07:01:00"
           },
           "contacts": []
         },
@@ -190,12 +170,12 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:00:00"
+            "date": "2017-02-01",
+            "time": "07:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:10:00"
+            "date": "2017-02-01",
+            "time": "07:01:00"
           },
           "contacts": []
         },
@@ -214,14 +194,14 @@
             "country": "USA"
           }
         },
-        "freightStatus": "PNDG",
+        "freightStatus": "DELVRD",
         "lastShipmentStatus": null,
         "references": [
           {
             "loadLevel": "SR",
             "id": 7,
             "loadId": 7,
-            "value": "23977239",
+            "value": "testing",
             "code": "DO",
             "desc": "Delivery Order Number"
           }
@@ -253,12 +233,12 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:00:00"
+            "date": "2017-02-01",
+            "time": "07:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:10:00"
+            "date": "2017-02-01",
+            "time": "07:01:00"
           },
           "contacts": []
         },
@@ -285,34 +265,14 @@
             "time": null
           },
           "actualArrivedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:00:00"
+            "date": "2017-02-01",
+            "time": "07:00:00"
           },
           "actualDepartedDateTime": {
-            "date": "2017-01-01",
-            "time": "10:10:00"
+            "date": "2017-02-01",
+            "time": "07:01:00"
           },
           "contacts": [
-            {
-              "loadLevel": "SR",
-              "id": 11,
-              "name": "John Doe",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "jdoe@gmail.com",
-                "communicationNumberTypeId": "EA"
-              }
-            },
-            {
-              "loadLevel": "SR",
-              "id": 1,
-              "name": "John Doe",
-              "contactFunctionCodeId": "AJ",
-              "contactNumber": {
-                "number": "4021234123",
-                "communicationNumberTypeId": "TE"
-              }
-            },
             {
               "loadLevel": "SR",
               "id": 2,
@@ -349,14 +309,14 @@
             "country": "USA"
           }
         },
-        "freightStatus": "PNDG",
+        "freightStatus": "DELVRD",
         "lastShipmentStatus": null,
         "references": [
           {
             "loadLevel": "SR",
             "id": 7,
             "loadId": 7,
-            "value": "23977239",
+            "value": "testing",
             "code": "DO",
             "desc": "Delivery Order Number"
           }
