@@ -1,0 +1,38 @@
+{
+  "resultList": [
+    {
+      "segmentRefNumber": "323170000131",
+      "tenderStatus": "PNDG",
+      "createdDt": "2017-05-10T14:09:04.668",
+      "originSchedulePickupDt": "2017-05-11T12:00:00",
+      "origin": {
+        "ident": "N6DLNEJ6",
+        "name": "Aadvantage Relocation Inc. - Thomaston (NAVL)",
+        "address": {
+          "address1": "1201 Barnsesville Hwy. ",
+          "city": "Thomaston",
+          "state": "GA",
+          "postalCode": "30286",
+          "country": "USA"
+        },
+        "contact": {
+          "name": "Chris Queen",
+          "telephone": "850-420-9010",
+          "email": "cqueen@teammove.com"
+        }
+      },
+      "destination": {
+        "name": "GGGS LLC.",
+        "address": {
+          "address1": "13441 Erskine St",
+          "city": "Omaha",
+          "state": "NE",
+          "postalCode": "68164",
+          "country": "USA"
+        },
+        "contact": {}
+      },
+      "productDetails": []
+    }
+  ]
+}
