@@ -1,0 +1,17 @@
+{
+  "city": "Schenectady",
+  "state": "NY",
+  "zip": "12345",
+  "county": "Schenectady",
+  "country": "USA",
+  "latitude": 42.80944,
+  "longitude": -73.95389,
+  "distance": 0,
+  "randcityabbr": "SCHENECTADY",
+  "alkcityabbr": "SCHENECTADY",
+  "pattern": "Zip",
+  "placenamein": "12345",
+  "placenameout": "12345 Schenectady, NY, Schenectady",
+  "optionAbbr": false,
+  "optionLoaded": false
+}
