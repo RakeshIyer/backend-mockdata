@@ -1,0 +1,270 @@
+[
+  {
+    "shipment": {
+      "id": 38,
+      "identificationNumber": "322170000038",
+      "orders": [
+        {
+          "loadLevel": "SH",
+          "id": 38,
+          "orderNumber": "40",
+          "freights": [
+            {
+              "id": 38,
+              "description": "bed",
+              "unitizedQuantity": {
+                "quantity": 2,
+                "quantityUom": "PCS"
+              },
+              "nonUnitizedQuantity": {},
+              "weight": {
+                "weight": 950,
+                "weightUOM": "L"
+              },
+              "dimensions": {
+                "dimLength": 83,
+                "dimWidth": 62,
+                "dimHeight": 24,
+                "dimLwhMeasurementUnitTypeId": "E"
+              },
+              "freightClass": "THX"
+            }
+          ]
+        }
+      ],
+      "stops": [
+        {
+          "id": 76,
+          "seqNumber": 2,
+          "location": {
+            "id": 80,
+            "name": "Kathys house",
+            "address": {
+              "address1": "1616 Scotwood Street",
+              "address2": "",
+              "city": "WEST MEMPHIS",
+              "state": "AR",
+              "postalCode": "72301",
+              "country": "USA"
+            }
+          },
+          "apptTypeId": "A",
+          "apptSubTypeId": null,
+          "schEarliestDateTime": null,
+          "schTargetDateTime": null,
+          "schLatestDateTime": {
+            "date": "2017-05-09",
+            "time": null
+          },
+          "actualArrivedDateTime": null,
+          "actualDepartedDateTime": null,
+          "contacts": [
+            {
+              "loadLevel": "SR",
+              "id": 185,
+              "name": "Kathys house",
+              "contactFunctionCodeId": "AJ",
+              "contactNumber": {
+                "number": "",
+                "communicationNumberTypeId": "TE"
+              }
+            },
+            {
+              "loadLevel": "SR",
+              "id": 184,
+              "name": "Kathys house",
+              "contactFunctionCodeId": "AJ",
+              "contactNumber": {
+                "number": "",
+                "communicationNumberTypeId": "EM"
+              }
+            }
+          ],
+          "comment": ""
+        },
+        {
+          "id": 75,
+          "seqNumber": 1,
+          "location": {
+            "id": 79,
+            "name": "Demo Warehouse",
+            "locationIdentifier": "5F2BM76H",
+            "address": {
+              "address1": "6755 West 65th Street",
+              "city": "Bedford Park",
+              "state": "IL",
+              "postalCode": "60638",
+              "country": "USA"
+            }
+          },
+          "apptTypeId": "A",
+          "apptSubTypeId": null,
+          "schEarliestDateTime": null,
+          "schTargetDateTime": null,
+          "schLatestDateTime": {
+            "date": "2017-05-09",
+            "time": null
+          },
+          "actualArrivedDateTime": null,
+          "actualDepartedDateTime": null,
+          "contacts": [],
+          "comment": ""
+        }
+      ],
+      "comments": [
+        {
+          "id": 2,
+          "noteReferenceCodeId": "ZZZ",
+          "comment": "delivery delayed "
+        }
+      ],
+      "references": [
+        {
+          "loadLevel": "SR",
+          "id": 80,
+          "loadId": 40,
+          "value": "PO124",
+          "code": "PO",
+          "desc": "Purchase Order Number"
+        },
+        {
+          "loadLevel": "SR",
+          "id": 79,
+          "loadId": 40,
+          "value": "1A40",
+          "code": "WH",
+          "desc": "Master Reference (Link) Number"
+        }
+      ],
+      "shipmentStatuses": [],
+      "serviceStatuses": [
+        {
+          "id": 292,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "FAILED",
+          "description": "No rates present. This may be the reason -> No Rates returned by Freitrater. Reason: Unable to load commodity by code.  , No Rates returned by Freitrater. Reason: 113:Cannot establish rates for this bill:. ",
+          "type": "CarrierSelection",
+          "retryCount": 5,
+          "responseTimeInMillis": 12629,
+          "lastCalledDate": "2017-05-26T12:58:39.539"
+        },
+        {
+          "id": 290,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "COMPLETED",
+          "description": null,
+          "type": "AgentSelectionProcess",
+          "retryCount": 8,
+          "responseTimeInMillis": 775,
+          "lastCalledDate": "2017-05-26T12:58:25.264"
+        },
+        {
+          "id": 323,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "FAILED",
+          "description": "LTL rates are not present. This may be the reason -> No Rates returned by Freitrater. Reason: Unable to load commodity by code. ",
+          "type": "LTLRatesNotFound",
+          "retryCount": 4,
+          "responseTimeInMillis": 12796,
+          "lastCalledDate": "2017-05-26T12:34:58.51"
+        },
+        {
+          "id": 269,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "COMPLETED",
+          "description": null,
+          "type": "AddCharges",
+          "retryCount": 3,
+          "responseTimeInMillis": 13772,
+          "lastCalledDate": "2017-05-24T02:16:53.393"
+        },
+        {
+          "id": 177,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "COMPLETED",
+          "description": null,
+          "type": "Rate",
+          "retryCount": 2,
+          "responseTimeInMillis": 665,
+          "lastCalledDate": "2017-05-23T08:47:14.138"
+        },
+        {
+          "id": 240,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "COMPLETED",
+          "description": null,
+          "type": "Credit",
+          "retryCount": 1,
+          "responseTimeInMillis": -1,
+          "lastCalledDate": "2017-05-09T13:38:29.864"
+        },
+        {
+          "id": 84,
+          "entity": "Shipment",
+          "identificationNumber": "322170000038",
+          "loadLevelType": "SH",
+          "status": "COMPLETED",
+          "description": null,
+          "type": "Distance",
+          "retryCount": 1,
+          "responseTimeInMillis": -1,
+          "lastCalledDate": "2017-05-09T13:35:08.008"
+        }
+      ],
+      "freightStatus": "PNDG",
+      "customer": {
+        "name": "FACTORY DIRECT FURNITURE                          ",
+        "address": {
+          "address1": "301 Broad St                                           ",
+          "address2": "                                                       ",
+          "address3": "                                                       ",
+          "address4": "                                                       ",
+          "city": "KINGSPORT                               ",
+          "state": "TN ",
+          "postalCode": "37660      ",
+          "country": "USA"
+        },
+        "customerContacts": [
+          {}
+        ],
+        "customerProfileIdent": "12011",
+        "as400_BillToCode": "FADIFU01"
+      },
+      "deliveryOption": "THRSH",
+      "doNotBill": false,
+      "costDivision": "LSFM ",
+      "businessUnit": "WERFM",
+      "customerServiceContact": {
+        "id": 193,
+        "name": "Mike Albright",
+        "contactFunctionCodeId": "AJ",
+        "contactNumber": {
+          "number": "402-216-1426",
+          "communicationNumberTypeId": "CP"
+        }
+      },
+      "sourceSystem": "Final Mile",
+      "billableDistance": {
+        "distance": 521,
+        "uom": "Miles",
+        "productVersion": "MM19",
+        "productName": "Rand McNally"
+      },
+      "billingStatus": "PNDG"
+    },
+    "segments": [],
+    "internetTrackingNumber": "1W322DU0YA0YIC8"
+  }
+]
