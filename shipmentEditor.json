@@ -1,81 +1,79 @@
 [
   {
     "shipment": {
-      "id": 38,
-      "identificationNumber": "322170000038",
+      "id": 230,
+      "identificationNumber": "322170000230",
       "orders": [
         {
           "loadLevel": "SH",
-          "id": 38,
-          "orderNumber": "40",
+          "id": 230,
+          "orderNumber": "345TY65467",
           "freights": [
             {
-              "id": 38,
-              "description": "bed",
+              "id": 246,
+              "description": "dfgv",
               "unitizedQuantity": {
-                "quantity": 2,
-                "quantityUom": "PCS"
+                "quantity": 4,
+                "quantityUom": "CTN"
               },
               "nonUnitizedQuantity": {},
               "weight": {
-                "weight": 950,
-                "weightUOM": "L"
+                "weight": 4,
+                "weightUOM": "L",
+                "type": "G"
               },
               "dimensions": {
-                "dimLength": 83,
-                "dimWidth": 62,
-                "dimHeight": 24,
-                "dimLwhMeasurementUnitTypeId": "E"
+                "dimLength": 4,
+                "dimWidth": 4,
+                "dimHeight": 4,
+                "dimLwhMeasurementUnitTypeId": "N"
               },
-              "freightClass": "THX"
+              "freightClass": ""
             }
           ]
         }
       ],
       "stops": [
         {
-          "id": 76,
+          "id": 460,
           "seqNumber": 2,
           "location": {
-            "id": 80,
-            "name": "Kathys house",
+            "id": 666,
+            "name": "OLD BAYMEADOWS MOVERS INC.",
             "address": {
-              "address1": "1616 Scotwood Street",
+              "address1": "8230 BAYCENTER RD",
               "address2": "",
-              "city": "WEST MEMPHIS",
-              "state": "AR",
-              "postalCode": "72301",
+              "city": "JACKSONVILLE",
+              "state": "FL",
+              "postalCode": "32256",
               "country": "USA"
             }
           },
-          "apptTypeId": "A",
+          "apptTypeId": "N",
           "apptSubTypeId": null,
           "schEarliestDateTime": null,
           "schTargetDateTime": null,
-          "schLatestDateTime": {
-            "date": "2017-05-09",
-            "time": null
-          },
+          "schLatestDateTime": null,
           "actualArrivedDateTime": null,
           "actualDepartedDateTime": null,
           "contacts": [
             {
-              "loadLevel": "SR",
-              "id": 185,
-              "name": "Kathys house",
+              "loadLevel": "SH",
+              "id": 1,
+              "name": "Robert Kelshall",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
-                "number": "",
+                "number": "904-329-2423",
                 "communicationNumberTypeId": "TE"
               }
             },
             {
-              "loadLevel": "SR",
-              "id": 184,
-              "name": "Kathys house",
+              "loadLevel": "SH",
+              "id": 2,
+              "name": "Robert Kelshall",
               "contactFunctionCodeId": "AJ",
               "contactNumber": {
-                "number": "",
+                "number": "robert@wemovejax.com",
                 "communicationNumberTypeId": "EM"
               }
             }
@@ -83,17 +81,18 @@
           "comment": ""
         },
         {
-          "id": 75,
+          "id": 459,
           "seqNumber": 1,
           "location": {
-            "id": 79,
-            "name": "Demo Warehouse",
-            "locationIdentifier": "5F2BM76H",
+            "id": 665,
+            "name": "John Lacquey Pinestraw Inc.",
+            "locationIdentifier": "LMSSKUSF",
             "address": {
-              "address1": "6755 West 65th Street",
-              "city": "Bedford Park",
-              "state": "IL",
-              "postalCode": "60638",
+              "address1": "8125 264th St",
+              "address2": "",
+              "city": "Branford",
+              "state": "FL",
+              "postalCode": "32008",
               "country": "USA"
             }
           },
@@ -102,125 +101,106 @@
           "schEarliestDateTime": null,
           "schTargetDateTime": null,
           "schLatestDateTime": {
-            "date": "2017-05-09",
+            "date": "2017-05-11",
             "time": null
           },
           "actualArrivedDateTime": null,
           "actualDepartedDateTime": null,
-          "contacts": [],
+          "contacts": [
+            {
+              "loadLevel": "SR",
+              "id": 1110,
+              "name": "werfg",
+              "contactFunctionCodeId": "AL",
+              "contactNumber": {
+                "number": "3465765678",
+                "communicationNumberTypeId": "WP"
+              }
+            }
+          ],
           "comment": ""
         }
       ],
-      "comments": [
-        {
-          "id": 2,
-          "noteReferenceCodeId": "ZZZ",
-          "comment": "delivery delayed "
-        }
-      ],
+      "comments": [],
       "references": [
         {
           "loadLevel": "SR",
-          "id": 80,
-          "loadId": 40,
-          "value": "PO124",
-          "code": "PO",
-          "desc": "Purchase Order Number"
+          "id": 463,
+          "loadId": 232,
+          "value": "345TY65467",
+          "code": "WH",
+          "desc": "Master Reference (Link) Number"
         },
         {
           "loadLevel": "SR",
-          "id": 79,
-          "loadId": 40,
-          "value": "1A40",
-          "code": "WH",
-          "desc": "Master Reference (Link) Number"
+          "id": 464,
+          "loadId": 232,
+          "value": "234567",
+          "code": "$UNKWN",
+          "desc": "Unknown (Internal only)"
         }
       ],
       "shipmentStatuses": [],
       "serviceStatuses": [
         {
-          "id": 292,
+          "id": 1355,
           "entity": "Shipment",
-          "identificationNumber": "322170000038",
+          "identificationNumber": "322170000230",
           "loadLevelType": "SH",
           "status": "FAILED",
-          "description": "No rates present. This may be the reason -> No Rates returned by Freitrater. Reason: Unable to load commodity by code.  , No Rates returned by Freitrater. Reason: 113:Cannot establish rates for this bill:. ",
-          "type": "CarrierSelection",
-          "retryCount": 5,
-          "responseTimeInMillis": 12629,
-          "lastCalledDate": "2017-05-26T12:58:39.539"
-        },
-        {
-          "id": 290,
-          "entity": "Shipment",
-          "identificationNumber": "322170000038",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
-          "type": "AgentSelectionProcess",
-          "retryCount": 8,
-          "responseTimeInMillis": 775,
-          "lastCalledDate": "2017-05-26T12:58:25.264"
-        },
-        {
-          "id": 323,
-          "entity": "Shipment",
-          "identificationNumber": "322170000038",
-          "loadLevelType": "SH",
-          "status": "FAILED",
-          "description": "LTL rates are not present. This may be the reason -> No Rates returned by Freitrater. Reason: Unable to load commodity by code. ",
-          "type": "LTLRatesNotFound",
-          "retryCount": 4,
-          "responseTimeInMillis": 12796,
-          "lastCalledDate": "2017-05-26T12:34:58.51"
-        },
-        {
-          "id": 269,
-          "entity": "Shipment",
-          "identificationNumber": "322170000038",
-          "loadLevelType": "SH",
-          "status": "COMPLETED",
-          "description": null,
+          "description": "UNEXPECTED_EXCEPTION:Unexpected Exception while validating Charges. null",
           "type": "AddCharges",
-          "retryCount": 3,
-          "responseTimeInMillis": 13772,
-          "lastCalledDate": "2017-05-24T02:16:53.393"
+          "retryCount": 6,
+          "responseTimeInMillis": 306,
+          "lastCalledDate": "2017-05-26T12:58:11.21"
         },
         {
-          "id": 177,
+          "id": 1353,
           "entity": "Shipment",
-          "identificationNumber": "322170000038",
+          "identificationNumber": "322170000230",
           "loadLevelType": "SH",
           "status": "COMPLETED",
           "description": null,
           "type": "Rate",
-          "retryCount": 2,
-          "responseTimeInMillis": 665,
-          "lastCalledDate": "2017-05-23T08:47:14.138"
+          "retryCount": 6,
+          "responseTimeInMillis": 4402,
+          "lastCalledDate": "2017-05-26T12:58:10.768"
         },
         {
-          "id": 240,
+          "id": 2803,
           "entity": "Shipment",
-          "identificationNumber": "322170000038",
+          "identificationNumber": "322170000230",
+          "loadLevelType": "SH",
+          "status": "COMPLETED",
+          "description": null,
+          "type": "CarrierSelection",
+          "retryCount": 1,
+          "responseTimeInMillis": 1866,
+          "lastCalledDate": "2017-05-26T12:36:03.617"
+        },
+        {
+          "id": 1354,
+          "entity": "Shipment",
+          "identificationNumber": "322170000230",
           "loadLevelType": "SH",
           "status": "COMPLETED",
           "description": null,
           "type": "Credit",
           "retryCount": 1,
           "responseTimeInMillis": -1,
-          "lastCalledDate": "2017-05-09T13:38:29.864"
+          "lastCalledDate": "2017-05-11T06:44:56.668"
         },
         {
-          "id": 84,
+          "id": 1352,
           "entity": "Shipment",
-          "identificationNumber": "322170000038",
+          "identificationNumber": "322170000230",
           "loadLevelType": "SH",
           "status": "COMPLETED",
           "description": null,
           "type": "Distance",
           "retryCount": 1,
           "responseTimeInMillis": -1,
-          "lastCalledDate": "2017-05-09T13:35:08.008"
+          "lastCalledDate": "2017-05-11T06:44:54.276"
         }
       ],
       "freightStatus": "PNDG",
@@ -242,29 +222,247 @@
         "customerProfileIdent": "12011",
         "as400_BillToCode": "FADIFU01"
       },
-      "deliveryOption": "THRSH",
+      "deliveryOption": "WGLV",
       "doNotBill": false,
       "costDivision": "LSFM ",
       "businessUnit": "WERFM",
       "customerServiceContact": {
-        "id": 193,
+        "id": 1113,
         "name": "Mike Albright",
         "contactFunctionCodeId": "AJ",
         "contactNumber": {
-          "number": "402-216-1426",
-          "communicationNumberTypeId": "CP"
+          "number": "micalbright@werner.com",
+          "communicationNumberTypeId": "EA"
         }
       },
       "sourceSystem": "Final Mile",
       "billableDistance": {
-        "distance": 521,
+        "distance": 94,
         "uom": "Miles",
         "productVersion": "MM19",
         "productName": "Rand McNally"
       },
       "billingStatus": "PNDG"
     },
-    "segments": [],
-    "internetTrackingNumber": "1W322DU0YA0YIC8"
+    "segments": [
+      {
+        "id": 825,
+        "identificationNumber": "323170000825",
+        "orders": [
+          {
+            "loadLevel": "SG",
+            "id": 825,
+            "orderNumber": "345TY65467",
+            "freights": [
+              {
+                "id": 825,
+                "description": "dfgv",
+                "unitizedQuantity": {
+                  "quantity": 4,
+                  "quantityUom": "CTN"
+                },
+                "nonUnitizedQuantity": {},
+                "weight": {
+                  "weight": 4,
+                  "weightUOM": "L",
+                  "type": "G"
+                },
+                "dimensions": {
+                  "dimLength": 4,
+                  "dimWidth": 4,
+                  "dimHeight": 4,
+                  "dimLwhMeasurementUnitTypeId": "N"
+                },
+                "freightClass": ""
+              }
+            ]
+          }
+        ],
+        "stops": [
+          {
+            "id": 1650,
+            "seqNumber": 2,
+            "location": {
+              "id": 666,
+              "name": "OLD BAYMEADOWS MOVERS INC.",
+              "address": {
+                "address1": "8230 BAYCENTER RD",
+                "address2": "",
+                "city": "JACKSONVILLE",
+                "state": "FL",
+                "postalCode": "32256",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "N",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": null,
+            "actualArrivedDateTime": null,
+            "actualDepartedDateTime": null,
+            "contacts": [
+              {
+                "loadLevel": "SH",
+                "id": 2,
+                "name": "Robert Kelshall",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "robert@wemovejax.com",
+                  "communicationNumberTypeId": "EM"
+                }
+              },
+              {
+                "loadLevel": "SH",
+                "id": 1,
+                "name": "Robert Kelshall",
+                "contactFunctionCodeId": "AJ",
+                "contactNumber": {
+                  "number": "904-329-2423",
+                  "communicationNumberTypeId": "TE"
+                }
+              }
+            ],
+            "comment": ""
+          },
+          {
+            "id": 1649,
+            "seqNumber": 1,
+            "location": {
+              "id": 665,
+              "name": "John Lacquey Pinestraw Inc.",
+              "locationIdentifier": "LMSSKUSF",
+              "address": {
+                "address1": "8125 264th St",
+                "address2": "",
+                "city": "Branford",
+                "state": "FL",
+                "postalCode": "32008",
+                "country": "USA"
+              }
+            },
+            "apptTypeId": "A",
+            "apptSubTypeId": null,
+            "schEarliestDateTime": null,
+            "schTargetDateTime": null,
+            "schLatestDateTime": {
+              "date": "2017-05-11",
+              "time": null
+            },
+            "actualArrivedDateTime": null,
+            "actualDepartedDateTime": null,
+            "contacts": [
+              {
+                "loadLevel": "SR",
+                "id": 1110,
+                "name": "werfg",
+                "contactFunctionCodeId": "AL",
+                "contactNumber": {
+                  "number": "3465765678",
+                  "communicationNumberTypeId": "WP"
+                }
+              }
+            ],
+            "comment": ""
+          }
+        ],
+        "comments": [],
+        "references": [
+          {
+            "loadLevel": "SR",
+            "id": 463,
+            "loadId": 232,
+            "value": "345TY65467",
+            "code": "WH",
+            "desc": "Master Reference (Link) Number"
+          },
+          {
+            "loadLevel": "SR",
+            "id": 464,
+            "loadId": 232,
+            "value": "234567",
+            "code": "$UNKWN",
+            "desc": "Unknown (Internal only)"
+          }
+        ],
+        "shipmentStatuses": [],
+        "serviceStatuses": [
+          {
+            "id": 3193,
+            "entity": "Agent Segment",
+            "identificationNumber": "323170000825",
+            "loadLevelType": "SG",
+            "status": "FAILED",
+            "description": "UNEXPECTED_EXCEPTION:Unexpected Exception while validating Charges. null",
+            "type": "AddCharges",
+            "retryCount": 2,
+            "responseTimeInMillis": 456,
+            "lastCalledDate": "2017-05-26T12:58:13.787"
+          },
+          {
+            "id": 3192,
+            "entity": "Agent Segment",
+            "identificationNumber": "323170000825",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "description": null,
+            "type": "Rate",
+            "retryCount": 2,
+            "responseTimeInMillis": 1014,
+            "lastCalledDate": "2017-05-26T12:58:13.161"
+          },
+          {
+            "id": 3194,
+            "entity": "Agent Segment",
+            "identificationNumber": "323170000825",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "description": null,
+            "type": "OBLT",
+            "retryCount": 1,
+            "responseTimeInMillis": -1,
+            "lastCalledDate": "2017-05-26T12:36:23.025"
+          },
+          {
+            "id": 3191,
+            "entity": "Agent Segment",
+            "identificationNumber": "323170000825",
+            "loadLevelType": "SG",
+            "status": "COMPLETED",
+            "description": null,
+            "type": "Distance",
+            "retryCount": 1,
+            "responseTimeInMillis": 611,
+            "lastCalledDate": "2017-05-26T12:36:12.677"
+          }
+        ],
+        "carrier": {
+          "carrierIdent": "100004360",
+          "scac": "",
+          "name": "OLD BAYMEADOWS MOVERS INC.",
+          "email": "jawad@wemovejax.com",
+          "contactNumber": "904-731-7223",
+          "addressVo": {
+            "address1": "8230 BAYCENTER RD",
+            "address2": "",
+            "city": "JACKSONVILLE",
+            "state": "FL",
+            "postalCode": "32256",
+            "country": "USA"
+          }
+        },
+        "freightStatus": "PNDG",
+        "freightExceptions": [],
+        "payableDistance": {
+          "distance": 94,
+          "uom": "Miles",
+          "productVersion": "MM19",
+          "productName": "Rand McNally"
+        },
+        "payableStatus": "PNDG"
+      }
+    ],
+    "internetTrackingNumber": "1W322D7AAY02QA6",
+    "palletCount": 0
   }
 ]
